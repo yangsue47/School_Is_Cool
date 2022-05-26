@@ -1,0 +1,2134 @@
+student_id,school,gender,lunch,pretest,posttest
+2FHT3,ANKYI,Female,Does not qualify,62.0,72.0
+3JIVH,ANKYI,Female,Does not qualify,66.0,79.0
+3XOWE,ANKYI,Male,Does not qualify,64.0,76.0
+556O0,ANKYI,Female,Does not qualify,61.0,77.0
+74LOE,ANKYI,Male,Does not qualify,64.0,76.0
+7YZO8,ANKYI,Female,Does not qualify,66.0,74.0
+9KMZD,ANKYI,Male,Does not qualify,63.0,75.0
+9USQK,ANKYI,Female,Does not qualify,63.0,72.0
+CS5QP,ANKYI,Male,Does not qualify,64.0,77.0
+D6HT8,ANKYI,Female,Does not qualify,61.0,72.0
+DZMKU,ANKYI,Male,Does not qualify,61.0,73.0
+FH7B9,ANKYI,Male,Does not qualify,64.0,74.0
+JI9VG,ANKYI,Male,Does not qualify,66.0,78.0
+JQM2W,ANKYI,Female,Does not qualify,60.0,71.0
+MEUC4,ANKYI,Female,Does not qualify,64.0,77.0
+R4U8H,ANKYI,Male,Does not qualify,64.0,73.0
+TH7KI,ANKYI,Male,Does not qualify,63.0,70.0
+U1FV7,ANKYI,Male,Does not qualify,67.0,73.0
+WC5I6,ANKYI,Female,Does not qualify,63.0,71.0
+ZBQ4T,ANKYI,Male,Does not qualify,64.0,73.0
+0CRO6,ANKYI,Male,Does not qualify,60.0,68.0
+1QMDI,ANKYI,Male,Does not qualify,60.0,70.0
+3CFUK,ANKYI,Male,Does not qualify,57.0,66.0
+447O0,ANKYI,Male,Does not qualify,57.0,70.0
+4IDEM,ANKYI,Female,Qualifies for reduced/free lunch,56.0,65.0
+5UQNP,ANKYI,Male,Does not qualify,58.0,67.0
+AV95M,ANKYI,Female,Does not qualify,60.0,70.0
+BX6I6,ANKYI,Female,Does not qualify,60.0,67.0
+EYFXR,ANKYI,Male,Does not qualify,54.0,63.0
+FFC9M,ANKYI,Male,Does not qualify,60.0,75.0
+GGT4A,ANKYI,Male,Does not qualify,58.0,66.0
+HRZOJ,ANKYI,Female,Does not qualify,66.0,71.0
+IFC62,ANKYI,Male,Does not qualify,60.0,76.0
+LLQI3,ANKYI,Female,Does not qualify,59.0,69.0
+OCJE3,ANKYI,Female,Does not qualify,57.0,69.0
+OGW1F,ANKYI,Female,Does not qualify,60.0,68.0
+Q5QRY,ANKYI,Female,Does not qualify,61.0,71.0
+TJRIV,ANKYI,Female,Does not qualify,61.0,66.0
+U24U5,ANKYI,Female,Does not qualify,59.0,69.0
+VKX2N,ANKYI,Female,Does not qualify,62.0,72.0
+ZTROF,ANKYI,Male,Does not qualify,60.0,66.0
+1IALS,CCAAW,Female,Does not qualify,61.0,75.0
+5NDXD,CCAAW,Male,Qualifies for reduced/free lunch,58.0,78.0
+6DCTV,CCAAW,Female,Qualifies for reduced/free lunch,64.0,82.0
+6OB0S,CCAAW,Male,Qualifies for reduced/free lunch,58.0,77.0
+AITPY,CCAAW,Male,Does not qualify,65.0,87.0
+B8B6G,CCAAW,Male,Does not qualify,65.0,80.0
+C0UW3,CCAAW,Female,Qualifies for reduced/free lunch,62.0,75.0
+CD1MB,CCAAW,Male,Qualifies for reduced/free lunch,58.0,73.0
+F4ZHY,CCAAW,Male,Qualifies for reduced/free lunch,59.0,74.0
+GT9F2,CCAAW,Male,Qualifies for reduced/free lunch,59.0,74.0
+L5T1W,CCAAW,Male,Qualifies for reduced/free lunch,63.0,76.0
+MVXN3,CCAAW,Female,Does not qualify,63.0,78.0
+N7XOT,CCAAW,Male,Does not qualify,59.0,77.0
+NKP72,CCAAW,Male,Qualifies for reduced/free lunch,61.0,77.0
+QJVAM,CCAAW,Male,Qualifies for reduced/free lunch,55.0,72.0
+V6ZA8,CCAAW,Male,Does not qualify,66.0,83.0
+X4NP9,CCAAW,Female,Does not qualify,67.0,81.0
+YEJFP,CCAAW,Female,Does not qualify,68.0,79.0
+2RA1H,CCAAW,Female,Does not qualify,63.0,80.0
+2U37U,CCAAW,Female,Qualifies for reduced/free lunch,63.0,83.0
+30219,CCAAW,Male,Does not qualify,66.0,82.0
+3RJO7,CCAAW,Female,Does not qualify,67.0,84.0
+42OS6,CCAAW,Female,Qualifies for reduced/free lunch,67.0,83.0
+4B72M,CCAAW,Male,Does not qualify,73.0,85.0
+7D9JO,CCAAW,Male,Does not qualify,68.0,87.0
+7QNXG,CCAAW,Female,Qualifies for reduced/free lunch,70.0,91.0
+8HMCH,CCAAW,Female,Qualifies for reduced/free lunch,74.0,85.0
+8W6N8,CCAAW,Female,Does not qualify,64.0,83.0
+BVGDA,CCAAW,Male,Qualifies for reduced/free lunch,62.0,78.0
+CFICH,CCAAW,Female,Does not qualify,76.0,84.0
+DTGZA,CCAAW,Female,Does not qualify,73.0,86.0
+EEJ6S,CCAAW,Male,Does not qualify,65.0,87.0
+JSYRI,CCAAW,Female,Does not qualify,66.0,79.0
+KGFXN,CCAAW,Female,Does not qualify,66.0,84.0
+KTSGX,CCAAW,Female,Does not qualify,66.0,82.0
+SAKZI,CCAAW,Female,Qualifies for reduced/free lunch,65.0,83.0
+XAHWJ,CCAAW,Female,Qualifies for reduced/free lunch,63.0,78.0
+XP6HQ,CCAAW,Female,Qualifies for reduced/free lunch,68.0,84.0
+0ZAWS,CCAAW,Female,Does not qualify,65.0,79.0
+4CE6S,CCAAW,Female,Does not qualify,70.0,83.0
+DB15U,CCAAW,Female,Qualifies for reduced/free lunch,65.0,81.0
+GFIP5,CCAAW,Female,Qualifies for reduced/free lunch,61.0,74.0
+GJ8SE,CCAAW,Male,Qualifies for reduced/free lunch,63.0,77.0
+GYLNC,CCAAW,Female,Does not qualify,62.0,82.0
+H1H52,CCAAW,Male,Does not qualify,69.0,81.0
+JPSF7,CCAAW,Male,Qualifies for reduced/free lunch,63.0,75.0
+KW69V,CCAAW,Male,Qualifies for reduced/free lunch,62.0,81.0
+MY8XT,CCAAW,Female,Qualifies for reduced/free lunch,63.0,77.0
+NKEK5,CCAAW,Male,Qualifies for reduced/free lunch,59.0,74.0
+PCELB,CCAAW,Male,Does not qualify,63.0,80.0
+VLKJU,CCAAW,Male,Does not qualify,66.0,76.0
+WI916,CCAAW,Female,Does not qualify,59.0,77.0
+WO5E2,CCAAW,Male,Qualifies for reduced/free lunch,60.0,74.0
+0U8DI,CCAAW,Female,Qualifies for reduced/free lunch,68.0,76.0
+18YOG,CCAAW,Male,Qualifies for reduced/free lunch,74.0,82.0
+4YN68,CCAAW,Female,Qualifies for reduced/free lunch,63.0,73.0
+905ZT,CCAAW,Female,Qualifies for reduced/free lunch,73.0,78.0
+9WYVP,CCAAW,Male,Does not qualify,75.0,83.0
+A1554,CCAAW,Female,Does not qualify,78.0,84.0
+BWRTH,CCAAW,Female,Qualifies for reduced/free lunch,69.0,78.0
+CNECS,CCAAW,Male,Qualifies for reduced/free lunch,73.0,81.0
+E8RRO,CCAAW,Male,Qualifies for reduced/free lunch,74.0,80.0
+I2TFD,CCAAW,Female,Does not qualify,73.0,80.0
+I4BNO,CCAAW,Female,Qualifies for reduced/free lunch,68.0,82.0
+IY6DQ,CCAAW,Female,Does not qualify,72.0,84.0
+LB8XY,CCAAW,Female,Does not qualify,73.0,80.0
+LHBRT,CCAAW,Male,Does not qualify,71.0,91.0
+NVH1O,CCAAW,Male,Does not qualify,73.0,80.0
+O4BQF,CCAAW,Female,Does not qualify,76.0,80.0
+ODYMF,CCAAW,Female,Does not qualify,70.0,84.0
+QLX2Z,CCAAW,Female,Does not qualify,71.0,78.0
+QPPQJ,CCAAW,Male,Does not qualify,76.0,85.0
+ST8FC,CCAAW,Female,Does not qualify,72.0,83.0
+XTC1Q,CCAAW,Male,Does not qualify,71.0,83.0
+0MRJH,CCAAW,Female,Qualifies for reduced/free lunch,49.0,68.0
+1RN82,CCAAW,Female,Does not qualify,55.0,70.0
+24AN2,CCAAW,Female,Qualifies for reduced/free lunch,60.0,73.0
+2XT73,CCAAW,Female,Qualifies for reduced/free lunch,59.0,73.0
+65RSM,CCAAW,Male,Does not qualify,59.0,70.0
+6QNQ9,CCAAW,Female,Qualifies for reduced/free lunch,55.0,69.0
+76O2H,CCAAW,Male,Does not qualify,55.0,71.0
+EUUCT,CCAAW,Female,Does not qualify,56.0,74.0
+FUCFP,CCAAW,Female,Qualifies for reduced/free lunch,53.0,69.0
+G3L6V,CCAAW,Female,Qualifies for reduced/free lunch,48.0,70.0
+I0XVJ,CCAAW,Female,Does not qualify,62.0,76.0
+IYNXL,CCAAW,Male,Does not qualify,58.0,75.0
+M5NZM,CCAAW,Female,Qualifies for reduced/free lunch,52.0,69.0
+PKG8H,CCAAW,Female,Does not qualify,59.0,67.0
+RM0W4,CCAAW,Female,Qualifies for reduced/free lunch,53.0,69.0
+XWY2X,CCAAW,Female,Does not qualify,57.0,72.0
+0DLKI,CCAAW,Male,Does not qualify,68.0,76.0
+1F817,CCAAW,Male,Does not qualify,67.0,80.0
+1IK2C,CCAAW,Female,Qualifies for reduced/free lunch,67.0,76.0
+1OFX7,CCAAW,Female,Does not qualify,66.0,82.0
+21IQZ,CCAAW,Female,Does not qualify,58.0,72.0
+5I0TO,CCAAW,Female,Does not qualify,61.0,70.0
+5SQKW,CCAAW,Male,Does not qualify,63.0,75.0
+7PLYH,CCAAW,Female,Does not qualify,68.0,77.0
+8MLVH,CCAAW,Female,Qualifies for reduced/free lunch,61.0,76.0
+CGX72,CCAAW,Female,Does not qualify,75.0,83.0
+IBX0J,CCAAW,Female,Qualifies for reduced/free lunch,68.0,75.0
+JY21F,CCAAW,Female,Qualifies for reduced/free lunch,65.0,72.0
+L4B6P,CCAAW,Female,Qualifies for reduced/free lunch,65.0,77.0
+PYYX9,CCAAW,Female,Qualifies for reduced/free lunch,61.0,77.0
+QZI3R,CCAAW,Female,Qualifies for reduced/free lunch,62.0,69.0
+RYJH1,CCAAW,Male,Qualifies for reduced/free lunch,65.0,74.0
+TKWII,CCAAW,Female,Qualifies for reduced/free lunch,70.0,79.0
+X6ZCW,CCAAW,Female,Qualifies for reduced/free lunch,65.0,74.0
+ZDLQB,CCAAW,Female,Qualifies for reduced/free lunch,60.0,73.0
+0WW6N,CIMBB,Male,Does not qualify,60.0,67.0
+5IKFU,CIMBB,Male,Does not qualify,62.0,70.0
+7ODZ6,CIMBB,Male,Does not qualify,59.0,73.0
+BD0UJ,CIMBB,Male,Does not qualify,62.0,72.0
+F08JN,CIMBB,Male,Does not qualify,54.0,68.0
+FRA61,CIMBB,Female,Does not qualify,58.0,66.0
+FZVQF,CIMBB,Male,Does not qualify,58.0,66.0
+GXVKS,CIMBB,Male,Does not qualify,60.0,69.0
+IUX8B,CIMBB,Male,Does not qualify,68.0,78.0
+KL3L4,CIMBB,Female,Does not qualify,55.0,69.0
+NV5M7,CIMBB,Female,Does not qualify,61.0,71.0
+PBE3E,CIMBB,Female,Does not qualify,61.0,71.0
+QB9ZX,CIMBB,Male,Does not qualify,61.0,70.0
+SM22E,CIMBB,Male,Does not qualify,64.0,81.0
+U2O2E,CIMBB,Female,Does not qualify,61.0,72.0
+UOZAQ,CIMBB,Female,Qualifies for reduced/free lunch,54.0,69.0
+XGJ6Y,CIMBB,Female,Does not qualify,56.0,65.0
+Y0PR8,CIMBB,Female,Does not qualify,55.0,64.0
+YB3AW,CIMBB,Female,Does not qualify,65.0,71.0
+03T0E,CIMBB,Male,Does not qualify,64.0,76.0
+13IGD,CIMBB,Male,Does not qualify,72.0,79.0
+2BCEE,CIMBB,Female,Does not qualify,72.0,78.0
+4RRBE,CIMBB,Male,Does not qualify,67.0,72.0
+5RT1S,CIMBB,Male,Does not qualify,64.0,74.0
+6MBC0,CIMBB,Female,Does not qualify,69.0,79.0
+7T7C2,CIMBB,Male,Does not qualify,67.0,78.0
+A90E3,CIMBB,Male,Does not qualify,70.0,76.0
+C4WMS,CIMBB,Male,Does not qualify,64.0,77.0
+DG5U0,CIMBB,Female,Does not qualify,64.0,75.0
+H033K,CIMBB,Male,Does not qualify,69.0,78.0
+HM7JY,CIMBB,Female,Does not qualify,70.0,82.0
+IDT35,CIMBB,Male,Does not qualify,71.0,78.0
+J8ME6,CIMBB,Female,Does not qualify,67.0,80.0
+O9Z89,CIMBB,Female,Does not qualify,69.0,79.0
+RZB93,CIMBB,Male,Does not qualify,69.0,80.0
+THSH4,CIMBB,Male,Does not qualify,66.0,81.0
+TLZHB,CIMBB,Female,Does not qualify,64.0,78.0
+W6N8C,CIMBB,Female,Does not qualify,69.0,82.0
+XGPLY,CIMBB,Female,Does not qualify,67.0,82.0
+Z3KSE,CIMBB,Female,Does not qualify,65.0,76.0
+1FA55,CIMBB,Male,Does not qualify,64.0,88.0
+3MV44,CIMBB,Male,Does not qualify,64.0,80.0
+4LM4Y,CIMBB,Male,Does not qualify,73.0,81.0
+792N5,CIMBB,Female,Does not qualify,66.0,83.0
+8TW6G,CIMBB,Male,Does not qualify,56.0,78.0
+9HA2N,CIMBB,Male,Does not qualify,67.0,87.0
+B8EP0,CIMBB,Female,Does not qualify,62.0,82.0
+BQ8E0,CIMBB,Female,Does not qualify,68.0,82.0
+E25O4,CIMBB,Female,Does not qualify,69.0,84.0
+IFRIJ,CIMBB,Female,Does not qualify,68.0,85.0
+IOQIU,CIMBB,Male,Does not qualify,63.0,82.0
+JGBZA,CIMBB,Female,Does not qualify,72.0,83.0
+JU9C5,CIMBB,Male,Does not qualify,70.0,82.0
+M0CLJ,CIMBB,Male,Does not qualify,68.0,87.0
+V69IG,CIMBB,Female,Does not qualify,64.0,85.0
+WY9TV,CIMBB,Male,Does not qualify,64.0,78.0
+XKSFM,CIMBB,Male,Does not qualify,61.0,77.0
+1C30U,CIMBB,Male,Does not qualify,70.0,78.0
+4XEXD,CIMBB,Female,Does not qualify,65.0,79.0
+7Z1S4,CIMBB,Female,Does not qualify,63.0,72.0
+8DR2M,CIMBB,Female,Does not qualify,68.0,80.0
+BO4NT,CIMBB,Female,Does not qualify,66.0,75.0
+DBPV7,CIMBB,Female,Does not qualify,64.0,75.0
+EQUU9,CIMBB,Female,Does not qualify,68.0,77.0
+ETDRG,CIMBB,Female,Does not qualify,67.0,79.0
+G8VM9,CIMBB,Male,Does not qualify,66.0,75.0
+GS9HH,CIMBB,Male,Does not qualify,68.0,80.0
+J4LOI,CIMBB,Female,Does not qualify,72.0,86.0
+K7YOS,CIMBB,Female,Does not qualify,69.0,76.0
+M2OMY,CIMBB,Male,Does not qualify,68.0,78.0
+P0F2W,CIMBB,Female,Does not qualify,62.0,75.0
+U6C5U,CIMBB,Female,Does not qualify,71.0,80.0
+VQ6PP,CIMBB,Male,Does not qualify,72.0,79.0
+XJPON,CIMBB,Male,Does not qualify,64.0,74.0
+14K8S,CUQAM,Female,Does not qualify,55.0,70.0
+1V9FC,CUQAM,Male,Qualifies for reduced/free lunch,55.0,67.0
+2NV1C,CUQAM,Male,Does not qualify,58.0,70.0
+4TYX0,CUQAM,Female,Does not qualify,60.0,67.0
+5HS69,CUQAM,Female,Does not qualify,58.0,69.0
+6AEX4,CUQAM,Female,Does not qualify,52.0,63.0
+6O48K,CUQAM,Male,Does not qualify,53.0,67.0
+7R2Y4,CUQAM,Male,Does not qualify,53.0,68.0
+82W8S,CUQAM,Male,Does not qualify,54.0,68.0
+D4HCS,CUQAM,Male,Does not qualify,59.0,70.0
+F0FIP,CUQAM,Male,Does not qualify,55.0,65.0
+GK727,CUQAM,Male,Does not qualify,56.0,67.0
+H9BKE,CUQAM,Male,Does not qualify,58.0,67.0
+J82SA,CUQAM,Female,Does not qualify,58.0,65.0
+K8KRE,CUQAM,Male,Qualifies for reduced/free lunch,58.0,65.0
+KB2DJ,CUQAM,Male,Does not qualify,60.0,74.0
+MMOCM,CUQAM,Female,Does not qualify,60.0,69.0
+MQHOL,CUQAM,Male,Does not qualify,56.0,61.0
+N2HZ8,CUQAM,Female,Does not qualify,56.0,69.0
+PPWAC,CUQAM,Male,Does not qualify,56.0,74.0
+REXA7,CUQAM,Female,Does not qualify,52.0,68.0
+UCMFB,CUQAM,Female,Qualifies for reduced/free lunch,52.0,68.0
+VIYQW,CUQAM,Female,Does not qualify,56.0,63.0
+WCVWV,CUQAM,Female,Does not qualify,58.0,70.0
+X0AOP,CUQAM,Male,Does not qualify,61.0,71.0
+X94T8,CUQAM,Male,Does not qualify,60.0,62.0
+XAV1J,CUQAM,Male,Qualifies for reduced/free lunch,57.0,62.0
+YPIKD,CUQAM,Male,Does not qualify,50.0,58.0
+3SRQL,CUQAM,Female,Does not qualify,53.0,57.0
+57N0B,CUQAM,Female,Does not qualify,55.0,63.0
+5VCT2,CUQAM,Female,Does not qualify,46.0,57.0
+6O5SV,CUQAM,Female,Does not qualify,50.0,59.0
+6Y2G7,CUQAM,Male,Does not qualify,50.0,57.0
+9UOCD,CUQAM,Male,Does not qualify,56.0,64.0
+BHDD2,CUQAM,Male,Qualifies for reduced/free lunch,44.0,58.0
+DEQXB,CUQAM,Female,Does not qualify,53.0,64.0
+DH29D,CUQAM,Male,Does not qualify,51.0,56.0
+E0NP5,CUQAM,Female,Does not qualify,50.0,61.0
+FIH1N,CUQAM,Male,Does not qualify,53.0,61.0
+FIXJF,CUQAM,Male,Does not qualify,53.0,64.0
+HFMAA,CUQAM,Male,Does not qualify,52.0,60.0
+IRVYC,CUQAM,Male,Does not qualify,49.0,61.0
+MIMX1,CUQAM,Female,Does not qualify,55.0,63.0
+NRU8N,CUQAM,Female,Does not qualify,56.0,66.0
+QMRNM,CUQAM,Male,Does not qualify,53.0,62.0
+QP6GN,CUQAM,Male,Does not qualify,50.0,59.0
+RLCLQ,CUQAM,Male,Qualifies for reduced/free lunch,50.0,59.0
+SOE2Z,CUQAM,Male,Does not qualify,52.0,62.0
+U11R6,CUQAM,Female,Does not qualify,52.0,58.0
+U55KC,CUQAM,Male,Qualifies for reduced/free lunch,47.0,62.0
+U6V9N,CUQAM,Female,Qualifies for reduced/free lunch,46.0,60.0
+UPA8M,CUQAM,Male,Does not qualify,53.0,59.0
+WCR6H,CUQAM,Male,Does not qualify,51.0,61.0
+WP4OE,CUQAM,Male,Does not qualify,52.0,65.0
+YV0HB,CUQAM,Female,Does not qualify,50.0,64.0
+0H9EO,CUQAM,Female,Does not qualify,52.0,67.0
+0WKXC,CUQAM,Male,Does not qualify,60.0,72.0
+0ZUZM,CUQAM,Male,Does not qualify,55.0,69.0
+1M80R,CUQAM,Male,Does not qualify,53.0,68.0
+2AT2K,CUQAM,Male,Does not qualify,57.0,67.0
+2EQ4L,CUQAM,Male,Does not qualify,61.0,62.0
+3ULUB,CUQAM,Female,Does not qualify,59.0,64.0
+6J5II,CUQAM,Female,Does not qualify,51.0,65.0
+703YR,CUQAM,Male,Qualifies for reduced/free lunch,49.0,65.0
+86RZK,CUQAM,Female,Does not qualify,59.0,64.0
+91U4U,CUQAM,Male,Qualifies for reduced/free lunch,52.0,63.0
+AYOIP,CUQAM,Female,Does not qualify,51.0,66.0
+BW158,CUQAM,Female,Does not qualify,57.0,65.0
+CFA02,CUQAM,Male,Does not qualify,54.0,62.0
+GHNH4,CUQAM,Male,Does not qualify,52.0,65.0
+I1E36,CUQAM,Male,Does not qualify,57.0,68.0
+J9O6H,CUQAM,Female,Does not qualify,54.0,65.0
+N3DMQ,CUQAM,Male,Does not qualify,57.0,59.0
+OBJSU,CUQAM,Female,Does not qualify,60.0,68.0
+PDDSN,CUQAM,Female,Does not qualify,51.0,64.0
+PZFMC,CUQAM,Female,Does not qualify,61.0,67.0
+R8YXZ,CUQAM,Male,Qualifies for reduced/free lunch,52.0,61.0
+RHZI6,CUQAM,Male,Does not qualify,52.0,63.0
+THIFD,CUQAM,Female,Qualifies for reduced/free lunch,49.0,64.0
+TNGFN,CUQAM,Male,Does not qualify,57.0,63.0
+U3GC0,CUQAM,Female,Does not qualify,52.0,63.0
+Y7CIO,CUQAM,Male,Does not qualify,54.0,63.0
+YSEBW,CUQAM,Male,Does not qualify,58.0,65.0
+5Z1Q8,CUQAM,Female,Does not qualify,51.0,66.0
+6PQH8,CUQAM,Female,Does not qualify,56.0,75.0
+B4YM5,CUQAM,Female,Does not qualify,56.0,72.0
+C8YUM,CUQAM,Male,Qualifies for reduced/free lunch,51.0,69.0
+CRV86,CUQAM,Male,Does not qualify,53.0,65.0
+D4BUO,CUQAM,Male,Does not qualify,49.0,67.0
+HCBLB,CUQAM,Male,Does not qualify,54.0,72.0
+JGOV7,CUQAM,Male,Does not qualify,52.0,71.0
+JME0Z,CUQAM,Female,Does not qualify,53.0,70.0
+K3IZ6,CUQAM,Male,Does not qualify,54.0,70.0
+NIJP6,CUQAM,Female,Does not qualify,57.0,76.0
+PGFCX,CUQAM,Male,Does not qualify,52.0,67.0
+QCW77,CUQAM,Female,Does not qualify,61.0,74.0
+QLAXV,CUQAM,Male,Does not qualify,52.0,73.0
+RLE9C,CUQAM,Male,Qualifies for reduced/free lunch,54.0,68.0
+S1U43,CUQAM,Male,Does not qualify,55.0,69.0
+SZDD5,CUQAM,Male,Does not qualify,53.0,71.0
+TMC4V,CUQAM,Male,Does not qualify,55.0,72.0
+TNGPD,CUQAM,Male,Does not qualify,53.0,70.0
+TT9MG,CUQAM,Male,Qualifies for reduced/free lunch,48.0,66.0
+UHE7N,CUQAM,Male,Does not qualify,51.0,70.0
+UM6YP,CUQAM,Female,Does not qualify,56.0,70.0
+X006R,CUQAM,Female,Does not qualify,51.0,69.0
+Y7KJM,CUQAM,Female,Qualifies for reduced/free lunch,49.0,67.0
+1K0Q5,DNQDD,Female,Does not qualify,54.0,67.0
+338XH,DNQDD,Female,Qualifies for reduced/free lunch,50.0,64.0
+378BQ,DNQDD,Female,Does not qualify,51.0,65.0
+3BGFW,DNQDD,Female,Does not qualify,53.0,70.0
+4ZRL3,DNQDD,Male,Does not qualify,52.0,60.0
+56UMG,DNQDD,Male,Qualifies for reduced/free lunch,51.0,57.0
+5UWDZ,DNQDD,Male,Does not qualify,56.0,61.0
+8PAMX,DNQDD,Female,Qualifies for reduced/free lunch,47.0,58.0
+96ZIU,DNQDD,Female,Qualifies for reduced/free lunch,49.0,60.0
+DBJRW,DNQDD,Male,Qualifies for reduced/free lunch,46.0,63.0
+DCVI8,DNQDD,Female,Qualifies for reduced/free lunch,43.0,61.0
+E178W,DNQDD,Male,Does not qualify,56.0,59.0
+EDR5K,DNQDD,Female,Does not qualify,54.0,64.0
+IRU9S,DNQDD,Female,Qualifies for reduced/free lunch,48.0,64.0
+JIPLL,DNQDD,Female,Does not qualify,55.0,62.0
+MH6W5,DNQDD,Female,Does not qualify,53.0,63.0
+N1ICX,DNQDD,Male,Qualifies for reduced/free lunch,52.0,63.0
+QFID8,DNQDD,Male,Does not qualify,55.0,55.0
+RYRXG,DNQDD,Male,Qualifies for reduced/free lunch,52.0,65.0
+T0TIH,DNQDD,Male,Qualifies for reduced/free lunch,54.0,57.0
+U086J,DNQDD,Male,Qualifies for reduced/free lunch,48.0,54.0
+U0TQQ,DNQDD,Male,Qualifies for reduced/free lunch,53.0,62.0
+UIM0F,DNQDD,Male,Qualifies for reduced/free lunch,52.0,58.0
+UPBA8,DNQDD,Male,Qualifies for reduced/free lunch,54.0,61.0
+VJQL3,DNQDD,Male,Qualifies for reduced/free lunch,44.0,59.0
+X7YLX,DNQDD,Female,Qualifies for reduced/free lunch,47.0,56.0
+Y2RWV,DNQDD,Female,Does not qualify,49.0,58.0
+02WIH,DNQDD,Male,Qualifies for reduced/free lunch,37.0,56.0
+0VR4J,DNQDD,Female,Does not qualify,50.0,63.0
+1IEF0,DNQDD,Male,Does not qualify,48.0,58.0
+1M9UM,DNQDD,Male,Qualifies for reduced/free lunch,40.0,60.0
+2OI79,DNQDD,Female,Qualifies for reduced/free lunch,39.0,49.0
+463P7,DNQDD,Female,Does not qualify,41.0,60.0
+4HD3D,DNQDD,Female,Qualifies for reduced/free lunch,38.0,57.0
+6RFGN,DNQDD,Male,Qualifies for reduced/free lunch,44.0,58.0
+6TTZY,DNQDD,Female,Does not qualify,45.0,63.0
+6XLGF,DNQDD,Female,Does not qualify,45.0,67.0
+E7VFK,DNQDD,Female,Qualifies for reduced/free lunch,36.0,53.0
+GO92G,DNQDD,Male,Does not qualify,48.0,62.0
+GUEXC,DNQDD,Female,Qualifies for reduced/free lunch,42.0,54.0
+MP2DL,DNQDD,Female,Does not qualify,48.0,65.0
+UBDCF,DNQDD,Male,Qualifies for reduced/free lunch,42.0,57.0
+VWNJ9,DNQDD,Male,Does not qualify,45.0,67.0
+XN65F,DNQDD,Female,Qualifies for reduced/free lunch,39.0,61.0
+Y4LA5,DNQDD,Female,Qualifies for reduced/free lunch,45.0,64.0
+YM3NK,DNQDD,Male,Qualifies for reduced/free lunch,44.0,59.0
+ZR1KH,DNQDD,Female,Qualifies for reduced/free lunch,40.0,52.0
+0KSLY,DNQDD,Female,Does not qualify,57.0,74.0
+34LDX,DNQDD,Male,Qualifies for reduced/free lunch,58.0,74.0
+39EA1,DNQDD,Female,Does not qualify,62.0,79.0
+5CQ0N,DNQDD,Female,Qualifies for reduced/free lunch,61.0,71.0
+5SLAY,DNQDD,Male,Qualifies for reduced/free lunch,57.0,73.0
+7HDEV,DNQDD,Male,Qualifies for reduced/free lunch,62.0,74.0
+831D6,DNQDD,Male,Qualifies for reduced/free lunch,55.0,71.0
+889HH,DNQDD,Male,Qualifies for reduced/free lunch,55.0,68.0
+B6VQP,DNQDD,Male,Does not qualify,55.0,75.0
+H0CGC,DNQDD,Male,Qualifies for reduced/free lunch,57.0,72.0
+JAQ11,DNQDD,Male,Qualifies for reduced/free lunch,58.0,79.0
+JZRVJ,DNQDD,Male,Does not qualify,58.0,75.0
+KCJ9W,DNQDD,Female,Does not qualify,60.0,78.0
+L0UG9,DNQDD,Male,Qualifies for reduced/free lunch,55.0,67.0
+MGJ90,DNQDD,Female,Qualifies for reduced/free lunch,52.0,73.0
+MR2T1,DNQDD,Male,Does not qualify,61.0,73.0
+N3LL6,DNQDD,Female,Qualifies for reduced/free lunch,53.0,67.0
+OA8PY,DNQDD,Male,Qualifies for reduced/free lunch,60.0,73.0
+PXXNX,DNQDD,Male,Does not qualify,58.0,76.0
+S7G9W,DNQDD,Female,Qualifies for reduced/free lunch,53.0,67.0
+SJEG2,DNQDD,Male,Qualifies for reduced/free lunch,60.0,72.0
+VG2OX,DNQDD,Male,Does not qualify,64.0,77.0
+VJ7SW,DNQDD,Female,Does not qualify,62.0,74.0
+XLDOH,DNQDD,Female,Qualifies for reduced/free lunch,56.0,74.0
+XWMAD,DNQDD,Male,Qualifies for reduced/free lunch,59.0,76.0
+YC05X,DNQDD,Female,Does not qualify,61.0,77.0
+ZFT9J,DNQDD,Male,Qualifies for reduced/free lunch,56.0,74.0
+ZJ61P,DNQDD,Female,Qualifies for reduced/free lunch,54.0,73.0
+2QC96,DNQDD,Female,Qualifies for reduced/free lunch,64.0,69.0
+70S7T,DNQDD,Female,Does not qualify,63.0,74.0
+8K2VR,DNQDD,Male,Qualifies for reduced/free lunch,49.0,60.0
+98B8A,DNQDD,Male,Does not qualify,60.0,61.0
+99KK2,DNQDD,Female,Qualifies for reduced/free lunch,58.0,69.0
+A5BS4,DNQDD,Male,Qualifies for reduced/free lunch,60.0,74.0
+F99D8,DNQDD,Male,Qualifies for reduced/free lunch,57.0,66.0
+G88DV,DNQDD,Male,Qualifies for reduced/free lunch,58.0,70.0
+I9OJV,DNQDD,Male,Qualifies for reduced/free lunch,58.0,68.0
+JIMD2,DNQDD,Male,Does not qualify,62.0,71.0
+JMTOQ,DNQDD,Male,Qualifies for reduced/free lunch,53.0,68.0
+LKACN,DNQDD,Female,Qualifies for reduced/free lunch,55.0,66.0
+M7XQV,DNQDD,Female,Does not qualify,60.0,72.0
+MEM4Z,DNQDD,Male,Does not qualify,62.0,71.0
+OJLP8,DNQDD,Male,Qualifies for reduced/free lunch,55.0,64.0
+OX7PB,DNQDD,Male,Qualifies for reduced/free lunch,60.0,67.0
+PIYL8,DNQDD,Male,Does not qualify,59.0,66.0
+SPIWM,DNQDD,Female,Qualifies for reduced/free lunch,53.0,70.0
+VD06X,DNQDD,Male,Qualifies for reduced/free lunch,57.0,74.0
+YLFY8,DNQDD,Male,Qualifies for reduced/free lunch,59.0,69.0
+6K4DK,DNQDD,Male,Does not qualify,63.0,72.0
+8NGSI,DNQDD,Male,Qualifies for reduced/free lunch,65.0,68.0
+9GYWF,DNQDD,Male,Qualifies for reduced/free lunch,56.0,71.0
+B8ZPI,DNQDD,Male,Qualifies for reduced/free lunch,60.0,69.0
+B9J7D,DNQDD,Male,Does not qualify,60.0,66.0
+BKV9M,DNQDD,Male,Does not qualify,60.0,68.0
+D18ZU,DNQDD,Male,Does not qualify,62.0,72.0
+E6Q1J,DNQDD,Female,Does not qualify,63.0,70.0
+F8Q67,DNQDD,Male,Does not qualify,61.0,74.0
+FWYBW,DNQDD,Female,Qualifies for reduced/free lunch,56.0,69.0
+G3GYE,DNQDD,Female,Qualifies for reduced/free lunch,60.0,67.0
+HEIPF,DNQDD,Male,Qualifies for reduced/free lunch,55.0,66.0
+HEOZU,DNQDD,Female,Qualifies for reduced/free lunch,62.0,71.0
+IXYC5,DNQDD,Male,Qualifies for reduced/free lunch,57.0,71.0
+JZYO3,DNQDD,Female,Qualifies for reduced/free lunch,58.0,70.0
+LMU2D,DNQDD,Male,Qualifies for reduced/free lunch,57.0,67.0
+NHYYZ,DNQDD,Male,Does not qualify,62.0,69.0
+NR8JR,DNQDD,Male,Qualifies for reduced/free lunch,55.0,65.0
+O2EGZ,DNQDD,Female,Qualifies for reduced/free lunch,60.0,76.0
+OKESX,DNQDD,Female,Qualifies for reduced/free lunch,52.0,62.0
+RV35S,DNQDD,Female,Qualifies for reduced/free lunch,61.0,67.0
+RVEQB,DNQDD,Female,Qualifies for reduced/free lunch,60.0,70.0
+SVLAT,DNQDD,Female,Does not qualify,62.0,68.0
+SZ7BS,DNQDD,Male,Qualifies for reduced/free lunch,60.0,64.0
+WLH9L,DNQDD,Male,Does not qualify,67.0,75.0
+Y2Z8M,DNQDD,Male,Does not qualify,61.0,70.0
+Z7PUC,DNQDD,Female,Qualifies for reduced/free lunch,58.0,68.0
+25M8Y,FBUMG,Male,Qualifies for reduced/free lunch,53.0,68.0
+3234W,FBUMG,Male,Does not qualify,63.0,78.0
+3431D,FBUMG,Male,Does not qualify,67.0,79.0
+A3RYU,FBUMG,Male,Does not qualify,61.0,76.0
+ARW1X,FBUMG,Male,Does not qualify,57.0,76.0
+BZ38P,FBUMG,Female,Does not qualify,72.0,84.0
+FNZ5V,FBUMG,Female,Does not qualify,65.0,78.0
+H4WWF,FBUMG,Male,Qualifies for reduced/free lunch,56.0,73.0
+HDPCP,FBUMG,Female,Does not qualify,64.0,77.0
+KJGKN,FBUMG,Male,Does not qualify,65.0,80.0
+S56V4,FBUMG,Male,Does not qualify,65.0,79.0
+VMM7O,FBUMG,Male,Does not qualify,64.0,84.0
+Y9W00,FBUMG,Female,Does not qualify,62.0,81.0
+Z5DTY,FBUMG,Female,Does not qualify,58.0,78.0
+04DG5,FBUMG,Female,Qualifies for reduced/free lunch,63.0,84.0
+20M2D,FBUMG,Female,Qualifies for reduced/free lunch,68.0,85.0
+39KCW,FBUMG,Male,Qualifies for reduced/free lunch,66.0,81.0
+5Z1B6,FBUMG,Male,Does not qualify,68.0,88.0
+6TLU8,FBUMG,Female,Does not qualify,66.0,81.0
+ATQQJ,FBUMG,Female,Does not qualify,68.0,82.0
+AYEU1,FBUMG,Male,Qualifies for reduced/free lunch,68.0,79.0
+B9FSU,FBUMG,Male,Does not qualify,69.0,83.0
+EV13K,FBUMG,Female,Does not qualify,66.0,83.0
+I5H37,FBUMG,Male,Qualifies for reduced/free lunch,65.0,83.0
+JC5I9,FBUMG,Female,Does not qualify,58.0,80.0
+JPE2J,FBUMG,Male,Does not qualify,59.0,81.0
+MFBYU,FBUMG,Female,Does not qualify,73.0,82.0
+O144X,FBUMG,Male,Does not qualify,67.0,86.0
+OGKP3,FBUMG,Male,Does not qualify,72.0,83.0
+UMFI7,FBUMG,Female,Qualifies for reduced/free lunch,56.0,73.0
+V1DNJ,FBUMG,Male,Does not qualify,61.0,76.0
+YRN9S,FBUMG,Male,Does not qualify,68.0,87.0
+07R5Z,FBUMG,Male,Does not qualify,57.0,79.0
+39K0Q,FBUMG,Female,Does not qualify,62.0,76.0
+3BUJG,FBUMG,Male,Does not qualify,58.0,68.0
+7PML3,FBUMG,Male,Qualifies for reduced/free lunch,56.0,69.0
+8FLEP,FBUMG,Female,Does not qualify,64.0,76.0
+95X1X,FBUMG,Male,Qualifies for reduced/free lunch,58.0,73.0
+IW48S,FBUMG,Male,Qualifies for reduced/free lunch,63.0,78.0
+K0K0N,FBUMG,Male,Does not qualify,58.0,77.0
+NU48M,FBUMG,Female,Does not qualify,61.0,77.0
+OE2B4,FBUMG,Female,Does not qualify,60.0,74.0
+UUSTB,FBUMG,Male,Does not qualify,55.0,72.0
+VK6OF,FBUMG,Male,Does not qualify,59.0,74.0
+XK8M9,FBUMG,Female,Does not qualify,64.0,80.0
+Y9GZZ,FBUMG,Female,Does not qualify,65.0,75.0
+34ANF,GJJHK,Female,Does not qualify,47.0,61.0
+40S5U,GJJHK,Male,Qualifies for reduced/free lunch,38.0,49.0
+4GUP5,GJJHK,Male,Qualifies for reduced/free lunch,47.0,60.0
+7JBMI,GJJHK,Female,Qualifies for reduced/free lunch,48.0,61.0
+7KY71,GJJHK,Female,Does not qualify,46.0,58.0
+8EZAA,GJJHK,Male,Qualifies for reduced/free lunch,53.0,55.0
+9P75A,GJJHK,Female,Qualifies for reduced/free lunch,44.0,58.0
+AIU1M,GJJHK,Female,Qualifies for reduced/free lunch,45.0,57.0
+CT443,GJJHK,Female,Qualifies for reduced/free lunch,48.0,61.0
+EH504,GJJHK,Female,Qualifies for reduced/free lunch,46.0,55.0
+EUYRP,GJJHK,Female,Qualifies for reduced/free lunch,47.0,59.0
+F25BI,GJJHK,Male,Qualifies for reduced/free lunch,48.0,61.0
+I7CCK,GJJHK,Female,Qualifies for reduced/free lunch,41.0,61.0
+IZMFR,GJJHK,Female,Qualifies for reduced/free lunch,44.0,59.0
+KEQ3F,GJJHK,Female,Qualifies for reduced/free lunch,46.0,57.0
+LH25F,GJJHK,Male,Qualifies for reduced/free lunch,39.0,50.0
+LM4OR,GJJHK,Female,Qualifies for reduced/free lunch,44.0,57.0
+P3N7B,GJJHK,Female,Qualifies for reduced/free lunch,44.0,56.0
+PFAAM,GJJHK,Female,Qualifies for reduced/free lunch,48.0,58.0
+RX0B1,GJJHK,Female,Qualifies for reduced/free lunch,45.0,55.0
+S8IFL,GJJHK,Male,Qualifies for reduced/free lunch,45.0,56.0
+UXH3Z,GJJHK,Male,Qualifies for reduced/free lunch,46.0,64.0
+0NJH4,GJJHK,Female,Qualifies for reduced/free lunch,61.0,75.0
+4MEAA,GJJHK,Female,Qualifies for reduced/free lunch,60.0,76.0
+4RJ6D,GJJHK,Male,Qualifies for reduced/free lunch,59.0,79.0
+5X4KE,GJJHK,Male,Qualifies for reduced/free lunch,66.0,82.0
+71A2K,GJJHK,Female,Qualifies for reduced/free lunch,65.0,76.0
+72VS3,GJJHK,Male,Qualifies for reduced/free lunch,60.0,78.0
+7812G,GJJHK,Female,Qualifies for reduced/free lunch,59.0,79.0
+7QOXC,GJJHK,Male,Qualifies for reduced/free lunch,60.0,75.0
+9Z43Y,GJJHK,Female,Qualifies for reduced/free lunch,65.0,82.0
+AWC27,GJJHK,Male,Qualifies for reduced/free lunch,62.0,74.0
+B9JUN,GJJHK,Female,Does not qualify,65.0,79.0
+BVRKY,GJJHK,Female,Qualifies for reduced/free lunch,61.0,72.0
+CGV37,GJJHK,Male,Qualifies for reduced/free lunch,66.0,79.0
+CNEYB,GJJHK,Male,Qualifies for reduced/free lunch,59.0,75.0
+DUG1A,GJJHK,Male,Qualifies for reduced/free lunch,61.0,79.0
+FBVVD,GJJHK,Male,Does not qualify,65.0,80.0
+I0L86,GJJHK,Female,Qualifies for reduced/free lunch,65.0,81.0
+I30XE,GJJHK,Female,Qualifies for reduced/free lunch,61.0,85.0
+JH2PX,GJJHK,Male,Qualifies for reduced/free lunch,63.0,78.0
+PNO97,GJJHK,Female,Qualifies for reduced/free lunch,64.0,79.0
+QZJWC,GJJHK,Female,Qualifies for reduced/free lunch,60.0,77.0
+RUPTX,GJJHK,Female,Qualifies for reduced/free lunch,60.0,73.0
+TMN52,GJJHK,Male,Does not qualify,65.0,84.0
+WPYXQ,GJJHK,Female,Does not qualify,68.0,83.0
+YPLB7,GJJHK,Female,Does not qualify,67.0,81.0
+ZH0UC,GJJHK,Female,Qualifies for reduced/free lunch,60.0,74.0
+ZLIIF,GJJHK,Male,Qualifies for reduced/free lunch,64.0,77.0
+0YINX,GJJHK,Male,Qualifies for reduced/free lunch,55.0,64.0
+1X80E,GJJHK,Female,Does not qualify,59.0,64.0
+42M64,GJJHK,Male,Qualifies for reduced/free lunch,53.0,65.0
+4EPVT,GJJHK,Male,Qualifies for reduced/free lunch,59.0,69.0
+6TS1O,GJJHK,Male,Qualifies for reduced/free lunch,52.0,61.0
+7X7KI,GJJHK,Male,Qualifies for reduced/free lunch,53.0,64.0
+AX6YY,GJJHK,Female,Qualifies for reduced/free lunch,53.0,63.0
+CZSGJ,GJJHK,Female,Qualifies for reduced/free lunch,58.0,65.0
+IJKWF,GJJHK,Female,Does not qualify,55.0,72.0
+ILS1W,GJJHK,Male,Qualifies for reduced/free lunch,62.0,72.0
+KUH3Q,GJJHK,Male,Qualifies for reduced/free lunch,57.0,60.0
+LFC9U,GJJHK,Male,Does not qualify,59.0,70.0
+MIGU8,GJJHK,Male,Qualifies for reduced/free lunch,52.0,65.0
+MMT5M,GJJHK,Male,Does not qualify,63.0,74.0
+R1PZ7,GJJHK,Female,Qualifies for reduced/free lunch,57.0,69.0
+RWS2C,GJJHK,Male,Qualifies for reduced/free lunch,55.0,63.0
+SJ05X,GJJHK,Female,Qualifies for reduced/free lunch,54.0,69.0
+USMBE,GJJHK,Female,Qualifies for reduced/free lunch,54.0,69.0
+W1RIV,GJJHK,Male,Qualifies for reduced/free lunch,52.0,62.0
+ZJ7VU,GJJHK,Male,Qualifies for reduced/free lunch,56.0,65.0
+ZJHIT,GJJHK,Male,Does not qualify,56.0,62.0
+0G5ME,GJJHK,Female,Qualifies for reduced/free lunch,52.0,57.0
+0TIVQ,GJJHK,Female,Qualifies for reduced/free lunch,47.0,57.0
+3RFLZ,GJJHK,Female,Qualifies for reduced/free lunch,45.0,49.0
+5TM1N,GJJHK,Female,Qualifies for reduced/free lunch,47.0,54.0
+73BV7,GJJHK,Female,Qualifies for reduced/free lunch,48.0,55.0
+7K35Q,GJJHK,Female,Qualifies for reduced/free lunch,45.0,54.0
+7SD9P,GJJHK,Male,Qualifies for reduced/free lunch,46.0,59.0
+8D526,GJJHK,Male,Qualifies for reduced/free lunch,49.0,58.0
+9S1OP,GJJHK,Male,Does not qualify,47.0,62.0
+DZP4C,GJJHK,Female,Qualifies for reduced/free lunch,44.0,55.0
+F3VMF,GJJHK,Female,Qualifies for reduced/free lunch,47.0,59.0
+FYE5C,GJJHK,Female,Qualifies for reduced/free lunch,48.0,59.0
+K3DEI,GJJHK,Female,Qualifies for reduced/free lunch,41.0,54.0
+K6QF7,GJJHK,Female,Qualifies for reduced/free lunch,42.0,53.0
+M14K7,GJJHK,Male,Does not qualify,45.0,60.0
+N1YBR,GJJHK,Female,Qualifies for reduced/free lunch,52.0,59.0
+O6C2E,GJJHK,Female,Qualifies for reduced/free lunch,44.0,51.0
+P259Z,GJJHK,Female,Qualifies for reduced/free lunch,50.0,55.0
+QUOMH,GJJHK,Female,Qualifies for reduced/free lunch,40.0,53.0
+RT30S,GJJHK,Male,Qualifies for reduced/free lunch,40.0,51.0
+S85CT,GJJHK,Male,Qualifies for reduced/free lunch,44.0,57.0
+1AP9Z,GJJHK,Female,Qualifies for reduced/free lunch,58.0,67.0
+2WHU2,GJJHK,Male,Qualifies for reduced/free lunch,54.0,60.0
+74BU8,GJJHK,Male,Qualifies for reduced/free lunch,51.0,63.0
+79WZ1,GJJHK,Male,Qualifies for reduced/free lunch,52.0,59.0
+7ZTHI,GJJHK,Female,Qualifies for reduced/free lunch,57.0,70.0
+8FPNB,GJJHK,Female,Does not qualify,54.0,65.0
+B1OMF,GJJHK,Male,Qualifies for reduced/free lunch,56.0,66.0
+BED44,GJJHK,Male,Qualifies for reduced/free lunch,52.0,59.0
+CL6FV,GJJHK,Male,Qualifies for reduced/free lunch,55.0,69.0
+DXOUM,GJJHK,Male,Qualifies for reduced/free lunch,49.0,62.0
+EPWXS,GJJHK,Male,Qualifies for reduced/free lunch,52.0,63.0
+FIRGN,GJJHK,Male,Qualifies for reduced/free lunch,55.0,64.0
+FZMZP,GJJHK,Female,Qualifies for reduced/free lunch,57.0,63.0
+GI2EF,GJJHK,Male,Qualifies for reduced/free lunch,54.0,67.0
+HKS1U,GJJHK,Female,Qualifies for reduced/free lunch,56.0,64.0
+K0K0A,GJJHK,Female,Does not qualify,54.0,66.0
+K6ZPT,GJJHK,Male,Qualifies for reduced/free lunch,50.0,63.0
+L8312,GJJHK,Female,Qualifies for reduced/free lunch,54.0,63.0
+LB2TH,GJJHK,Male,Qualifies for reduced/free lunch,48.0,61.0
+ND7EU,GJJHK,Female,Does not qualify,60.0,69.0
+O8YKS,GJJHK,Female,Qualifies for reduced/free lunch,54.0,63.0
+SPPI3,GJJHK,Female,Qualifies for reduced/free lunch,55.0,65.0
+U2EMB,GJJHK,Female,Qualifies for reduced/free lunch,52.0,68.0
+UKJAZ,GJJHK,Male,Qualifies for reduced/free lunch,49.0,65.0
+VKH07,GJJHK,Male,Qualifies for reduced/free lunch,55.0,61.0
+W5NUO,GJJHK,Male,Qualifies for reduced/free lunch,52.0,66.0
+XRD78,GJJHK,Female,Qualifies for reduced/free lunch,55.0,64.0
+4KZTB,GOKXL,Female,Qualifies for reduced/free lunch,50.0,72.0
+73OKF,GOKXL,Female,Qualifies for reduced/free lunch,57.0,70.0
+7GLHH,GOKXL,Male,Qualifies for reduced/free lunch,58.0,70.0
+7PFTS,GOKXL,Male,Does not qualify,61.0,72.0
+86R4S,GOKXL,Female,Does not qualify,60.0,70.0
+99V7R,GOKXL,Male,Qualifies for reduced/free lunch,55.0,71.0
+9TO9F,GOKXL,Male,Qualifies for reduced/free lunch,55.0,68.0
+B5Y1R,GOKXL,Male,Does not qualify,55.0,74.0
+BVRN8,GOKXL,Female,Qualifies for reduced/free lunch,52.0,65.0
+C9ZJQ,GOKXL,Female,Qualifies for reduced/free lunch,53.0,72.0
+DNCDV,GOKXL,Male,Qualifies for reduced/free lunch,54.0,72.0
+GK1Q3,GOKXL,Female,Qualifies for reduced/free lunch,51.0,62.0
+HCOHF,GOKXL,Male,Does not qualify,56.0,72.0
+K2N0T,GOKXL,Female,Qualifies for reduced/free lunch,59.0,77.0
+KI2M3,GOKXL,Male,Qualifies for reduced/free lunch,51.0,69.0
+NK5EF,GOKXL,Male,Qualifies for reduced/free lunch,50.0,69.0
+PLX9B,GOKXL,Female,Qualifies for reduced/free lunch,59.0,75.0
+RFVK8,GOKXL,Female,Does not qualify,59.0,70.0
+RTGSE,GOKXL,Female,Qualifies for reduced/free lunch,52.0,69.0
+SQBOO,GOKXL,Male,Qualifies for reduced/free lunch,54.0,69.0
+UPAJX,GOKXL,Male,Qualifies for reduced/free lunch,46.0,65.0
+YSVSY,GOKXL,Male,Qualifies for reduced/free lunch,49.0,67.0
+1990J,GOKXL,Female,Qualifies for reduced/free lunch,56.0,70.0
+2UYFR,GOKXL,Male,Qualifies for reduced/free lunch,54.0,72.0
+31EAI,GOKXL,Male,Qualifies for reduced/free lunch,57.0,71.0
+5H30M,GOKXL,Male,Qualifies for reduced/free lunch,54.0,68.0
+6THJV,GOKXL,Male,Does not qualify,58.0,68.0
+8GKA1,GOKXL,Male,Qualifies for reduced/free lunch,59.0,70.0
+B7ZPX,GOKXL,Female,Qualifies for reduced/free lunch,55.0,71.0
+CESCR,GOKXL,Female,Qualifies for reduced/free lunch,51.0,69.0
+DZLHN,GOKXL,Female,Qualifies for reduced/free lunch,58.0,71.0
+EJH9S,GOKXL,Male,Qualifies for reduced/free lunch,54.0,74.0
+ENASL,GOKXL,Male,Does not qualify,53.0,68.0
+GVLVE,GOKXL,Male,Qualifies for reduced/free lunch,52.0,68.0
+H6KJ5,GOKXL,Male,Qualifies for reduced/free lunch,51.0,66.0
+JHKPJ,GOKXL,Female,Qualifies for reduced/free lunch,54.0,72.0
+JX1DB,GOKXL,Female,Qualifies for reduced/free lunch,48.0,63.0
+L1D2K,GOKXL,Male,Qualifies for reduced/free lunch,56.0,74.0
+LBNRH,GOKXL,Male,Qualifies for reduced/free lunch,52.0,70.0
+NRU3S,GOKXL,Male,Qualifies for reduced/free lunch,53.0,61.0
+PUU4A,GOKXL,Female,Qualifies for reduced/free lunch,54.0,69.0
+QOXPF,GOKXL,Male,Does not qualify,50.0,67.0
+R4P1G,GOKXL,Male,Qualifies for reduced/free lunch,48.0,70.0
+XHFUX,GOKXL,Male,Qualifies for reduced/free lunch,56.0,75.0
+ZRYLC,GOKXL,Male,Qualifies for reduced/free lunch,53.0,69.0
+0YXPR,GOKXL,Female,Qualifies for reduced/free lunch,48.0,56.0
+1QIW0,GOKXL,Male,Does not qualify,49.0,57.0
+1SDXS,GOKXL,Female,Qualifies for reduced/free lunch,40.0,52.0
+6BFD2,GOKXL,Male,Does not qualify,42.0,61.0
+876R0,GOKXL,Male,Qualifies for reduced/free lunch,43.0,57.0
+APD4B,GOKXL,Male,Qualifies for reduced/free lunch,43.0,56.0
+AXE5J,GOKXL,Female,Qualifies for reduced/free lunch,47.0,53.0
+BPVY4,GOKXL,Female,Qualifies for reduced/free lunch,44.0,53.0
+BR5EY,GOKXL,Female,Qualifies for reduced/free lunch,42.0,53.0
+CR5FB,GOKXL,Male,Qualifies for reduced/free lunch,45.0,53.0
+IJPLC,GOKXL,Male,Does not qualify,44.0,53.0
+M5UK3,GOKXL,Female,Qualifies for reduced/free lunch,44.0,57.0
+MOCJB,GOKXL,Male,Qualifies for reduced/free lunch,41.0,50.0
+R8JLM,GOKXL,Female,Qualifies for reduced/free lunch,39.0,48.0
+RTKNR,GOKXL,Male,Qualifies for reduced/free lunch,39.0,48.0
+TME5H,GOKXL,Female,Qualifies for reduced/free lunch,43.0,53.0
+WUYJ3,GOKXL,Female,Does not qualify,45.0,57.0
+YT5M3,GOKXL,Male,Qualifies for reduced/free lunch,45.0,53.0
+Z2T0F,GOKXL,Male,Qualifies for reduced/free lunch,36.0,51.0
+0KZS6,GOOBU,Female,Qualifies for reduced/free lunch,47.0,58.0
+3XNVR,GOOBU,Male,Qualifies for reduced/free lunch,50.0,57.0
+4MTC1,GOOBU,Male,Qualifies for reduced/free lunch,48.0,53.0
+7QOXV,GOOBU,Female,Qualifies for reduced/free lunch,53.0,57.0
+AQCB5,GOOBU,Male,Qualifies for reduced/free lunch,46.0,59.0
+BGPAQ,GOOBU,Male,Qualifies for reduced/free lunch,46.0,54.0
+BV3MI,GOOBU,Male,Qualifies for reduced/free lunch,45.0,51.0
+BXPDJ,GOOBU,Female,Qualifies for reduced/free lunch,44.0,55.0
+F1JQ8,GOOBU,Male,Qualifies for reduced/free lunch,50.0,56.0
+FW95I,GOOBU,Male,Qualifies for reduced/free lunch,49.0,58.0
+G1R40,GOOBU,Male,Qualifies for reduced/free lunch,42.0,56.0
+H02VP,GOOBU,Male,Qualifies for reduced/free lunch,47.0,53.0
+JQ4OT,GOOBU,Female,Qualifies for reduced/free lunch,44.0,57.0
+K8AKM,GOOBU,Male,Does not qualify,44.0,59.0
+KHMUC,GOOBU,Female,Qualifies for reduced/free lunch,49.0,55.0
+N1N93,GOOBU,Female,Qualifies for reduced/free lunch,47.0,55.0
+NT35W,GOOBU,Male,Qualifies for reduced/free lunch,42.0,54.0
+P6MIL,GOOBU,Female,Qualifies for reduced/free lunch,48.0,58.0
+PLN0Y,GOOBU,Male,Qualifies for reduced/free lunch,45.0,51.0
+T72EG,GOOBU,Male,Qualifies for reduced/free lunch,42.0,52.0
+U46W3,GOOBU,Female,Qualifies for reduced/free lunch,43.0,60.0
+V3J4V,GOOBU,Female,Qualifies for reduced/free lunch,52.0,59.0
+VIVT4,GOOBU,Female,Qualifies for reduced/free lunch,41.0,53.0
+VMAIX,GOOBU,Female,Qualifies for reduced/free lunch,50.0,57.0
+X01MT,GOOBU,Male,Qualifies for reduced/free lunch,42.0,51.0
+X1KJ2,GOOBU,Female,Does not qualify,47.0,59.0
+XVQ6F,GOOBU,Female,Qualifies for reduced/free lunch,41.0,57.0
+YVDVY,GOOBU,Female,Does not qualify,55.0,62.0
+YW9AS,GOOBU,Male,Qualifies for reduced/free lunch,48.0,58.0
+ZAUS9,GOOBU,Male,Qualifies for reduced/free lunch,51.0,62.0
+ZLJJG,GOOBU,Female,Qualifies for reduced/free lunch,42.0,51.0
+11I5O,GOOBU,Male,Qualifies for reduced/free lunch,31.0,39.0
+2G98P,GOOBU,Female,Does not qualify,35.0,43.0
+3EO9U,GOOBU,Female,Qualifies for reduced/free lunch,31.0,45.0
+3JJUP,GOOBU,Male,Does not qualify,38.0,45.0
+7X0DK,GOOBU,Male,Does not qualify,33.0,47.0
+8AP2H,GOOBU,Female,Qualifies for reduced/free lunch,27.0,42.0
+CF84B,GOOBU,Male,Qualifies for reduced/free lunch,36.0,44.0
+DVU8C,GOOBU,Female,Qualifies for reduced/free lunch,33.0,46.0
+F4L64,GOOBU,Female,Qualifies for reduced/free lunch,30.0,43.0
+GXVMO,GOOBU,Female,Qualifies for reduced/free lunch,33.0,43.0
+HPY7B,GOOBU,Female,Qualifies for reduced/free lunch,36.0,43.0
+ITHSP,GOOBU,Male,Qualifies for reduced/free lunch,36.0,45.0
+IXGKA,GOOBU,Male,Qualifies for reduced/free lunch,30.0,42.0
+J65X1,GOOBU,Male,Qualifies for reduced/free lunch,33.0,43.0
+JQC0G,GOOBU,Female,Qualifies for reduced/free lunch,34.0,48.0
+JQPK7,GOOBU,Female,Qualifies for reduced/free lunch,37.0,41.0
+JX5I4,GOOBU,Female,Qualifies for reduced/free lunch,33.0,36.0
+KSX2Y,GOOBU,Male,Qualifies for reduced/free lunch,33.0,40.0
+QUDU5,GOOBU,Female,Qualifies for reduced/free lunch,32.0,45.0
+S5SBH,GOOBU,Female,Qualifies for reduced/free lunch,29.0,44.0
+UPVQB,GOOBU,Female,Does not qualify,39.0,52.0
+Y1CCJ,GOOBU,Female,Does not qualify,38.0,48.0
+YSJ06,GOOBU,Male,Qualifies for reduced/free lunch,29.0,41.0
+ZCA7A,GOOBU,Female,Qualifies for reduced/free lunch,33.0,46.0
+09J0H,GOOBU,Female,Qualifies for reduced/free lunch,28.0,43.0
+5FVZF,GOOBU,Male,Qualifies for reduced/free lunch,33.0,41.0
+6GLIV,GOOBU,Female,Qualifies for reduced/free lunch,37.0,44.0
+76TQY,GOOBU,Male,Qualifies for reduced/free lunch,28.0,45.0
+78IT6,GOOBU,Female,Qualifies for reduced/free lunch,32.0,32.0
+85XTO,GOOBU,Female,Qualifies for reduced/free lunch,30.0,43.0
+8BONX,GOOBU,Male,Qualifies for reduced/free lunch,31.0,38.0
+8LIDQ,GOOBU,Female,Qualifies for reduced/free lunch,27.0,43.0
+C5QDD,GOOBU,Female,Qualifies for reduced/free lunch,28.0,45.0
+ESWTA,GOOBU,Male,Qualifies for reduced/free lunch,32.0,38.0
+ET5M9,GOOBU,Female,Qualifies for reduced/free lunch,23.0,35.0
+G7UZ5,GOOBU,Male,Qualifies for reduced/free lunch,30.0,39.0
+I6HEI,GOOBU,Female,Qualifies for reduced/free lunch,33.0,42.0
+JR3ZP,GOOBU,Female,Qualifies for reduced/free lunch,30.0,39.0
+LRVKJ,GOOBU,Male,Qualifies for reduced/free lunch,30.0,44.0
+LTIOX,GOOBU,Male,Qualifies for reduced/free lunch,26.0,34.0
+LW21L,GOOBU,Male,Qualifies for reduced/free lunch,31.0,42.0
+M78WF,GOOBU,Male,Qualifies for reduced/free lunch,30.0,41.0
+P4SN4,GOOBU,Male,Qualifies for reduced/free lunch,36.0,44.0
+T7HV4,GOOBU,Male,Qualifies for reduced/free lunch,27.0,39.0
+TJ7G8,GOOBU,Male,Qualifies for reduced/free lunch,36.0,43.0
+UG0VP,GOOBU,Male,Qualifies for reduced/free lunch,30.0,41.0
+UJQR2,GOOBU,Female,Qualifies for reduced/free lunch,32.0,42.0
+UVLBR,GOOBU,Female,Qualifies for reduced/free lunch,31.0,45.0
+W20C6,GOOBU,Female,Qualifies for reduced/free lunch,34.0,43.0
+Y7AXC,GOOBU,Male,Qualifies for reduced/free lunch,30.0,40.0
+ZC4LX,GOOBU,Male,Qualifies for reduced/free lunch,30.0,44.0
+ZDEIJ,GOOBU,Female,Qualifies for reduced/free lunch,33.0,40.0
+0DXGZ,GOOBU,Male,Qualifies for reduced/free lunch,41.0,49.0
+0OW7I,GOOBU,Male,Qualifies for reduced/free lunch,40.0,50.0
+1DA31,GOOBU,Male,Qualifies for reduced/free lunch,37.0,45.0
+1GWDJ,GOOBU,Male,Qualifies for reduced/free lunch,37.0,44.0
+2EXQP,GOOBU,Female,Qualifies for reduced/free lunch,40.0,51.0
+2PEWE,GOOBU,Male,Qualifies for reduced/free lunch,41.0,51.0
+4TYTZ,GOOBU,Male,Qualifies for reduced/free lunch,37.0,50.0
+56VOR,GOOBU,Male,Qualifies for reduced/free lunch,36.0,49.0
+5W6IT,GOOBU,Male,Qualifies for reduced/free lunch,41.0,54.0
+6KYW4,GOOBU,Female,Does not qualify,40.0,52.0
+9GEEG,GOOBU,Male,Qualifies for reduced/free lunch,39.0,46.0
+B9AML,GOOBU,Male,Qualifies for reduced/free lunch,40.0,49.0
+BG9FM,GOOBU,Male,Qualifies for reduced/free lunch,42.0,50.0
+BHSCF,GOOBU,Male,Qualifies for reduced/free lunch,39.0,48.0
+EQDEK,GOOBU,Male,Qualifies for reduced/free lunch,45.0,54.0
+FZ955,GOOBU,Female,Qualifies for reduced/free lunch,42.0,48.0
+GNFMX,GOOBU,Female,Qualifies for reduced/free lunch,43.0,54.0
+GYLI8,GOOBU,Male,Does not qualify,44.0,54.0
+M4RH1,GOOBU,Male,Qualifies for reduced/free lunch,40.0,51.0
+MMHV2,GOOBU,Male,Qualifies for reduced/free lunch,36.0,48.0
+OZ1IC,GOOBU,Female,Does not qualify,47.0,55.0
+QYUIJ,GOOBU,Male,Qualifies for reduced/free lunch,43.0,53.0
+ULA1C,GOOBU,Female,Qualifies for reduced/free lunch,38.0,51.0
+XDCZU,GOOBU,Male,Qualifies for reduced/free lunch,40.0,54.0
+0TG4E,GOOBU,Female,Qualifies for reduced/free lunch,44.0,52.0
+3CQUU,GOOBU,Female,Qualifies for reduced/free lunch,40.0,52.0
+3TJ3A,GOOBU,Female,Qualifies for reduced/free lunch,43.0,53.0
+6OUSM,GOOBU,Female,Qualifies for reduced/free lunch,36.0,50.0
+9178O,GOOBU,Male,Qualifies for reduced/free lunch,40.0,51.0
+AZJMV,GOOBU,Female,Qualifies for reduced/free lunch,41.0,47.0
+B2JPA,GOOBU,Female,Qualifies for reduced/free lunch,39.0,47.0
+BLF0G,GOOBU,Female,Qualifies for reduced/free lunch,41.0,47.0
+BRSSH,GOOBU,Male,Qualifies for reduced/free lunch,39.0,48.0
+EIV0N,GOOBU,Female,Qualifies for reduced/free lunch,37.0,46.0
+FXW0B,GOOBU,Male,Qualifies for reduced/free lunch,44.0,52.0
+HMVID,GOOBU,Female,Qualifies for reduced/free lunch,38.0,44.0
+J4404,GOOBU,Female,Qualifies for reduced/free lunch,35.0,52.0
+K6069,GOOBU,Male,Qualifies for reduced/free lunch,35.0,48.0
+MWVPD,GOOBU,Male,Qualifies for reduced/free lunch,38.0,51.0
+OEWJ2,GOOBU,Male,Qualifies for reduced/free lunch,41.0,52.0
+OKZQZ,GOOBU,Female,Qualifies for reduced/free lunch,31.0,44.0
+QSDTJ,GOOBU,Male,Qualifies for reduced/free lunch,37.0,47.0
+RACAL,GOOBU,Female,Qualifies for reduced/free lunch,36.0,48.0
+RJWG7,GOOBU,Female,Qualifies for reduced/free lunch,41.0,46.0
+T1IOZ,GOOBU,Female,Qualifies for reduced/free lunch,39.0,50.0
+TGZB2,GOOBU,Female,Qualifies for reduced/free lunch,36.0,53.0
+U9QL7,GOOBU,Male,Qualifies for reduced/free lunch,37.0,48.0
+YG9VR,GOOBU,Female,Qualifies for reduced/free lunch,38.0,48.0
+YP2OF,GOOBU,Female,Qualifies for reduced/free lunch,39.0,47.0
+10A05,GOOBU,Female,Qualifies for reduced/free lunch,35.0,55.0
+60JJW,GOOBU,Male,Qualifies for reduced/free lunch,37.0,54.0
+65ZZN,GOOBU,Male,Does not qualify,40.0,59.0
+6M88W,GOOBU,Male,Qualifies for reduced/free lunch,37.0,61.0
+7H9LF,GOOBU,Female,Qualifies for reduced/free lunch,40.0,57.0
+93CDF,GOOBU,Female,Qualifies for reduced/free lunch,34.0,54.0
+9DKQ9,GOOBU,Female,Qualifies for reduced/free lunch,39.0,56.0
+9UN3Z,GOOBU,Male,Qualifies for reduced/free lunch,36.0,55.0
+A3JJP,GOOBU,Female,Qualifies for reduced/free lunch,36.0,57.0
+AHIZI,GOOBU,Male,Does not qualify,45.0,64.0
+BUDF2,GOOBU,Male,Qualifies for reduced/free lunch,36.0,57.0
+D76QH,GOOBU,Male,Qualifies for reduced/free lunch,40.0,60.0
+FFCHO,GOOBU,Male,Qualifies for reduced/free lunch,42.0,55.0
+HLTZ9,GOOBU,Male,Qualifies for reduced/free lunch,38.0,59.0
+J0V3K,GOOBU,Male,Qualifies for reduced/free lunch,40.0,56.0
+JOWGS,GOOBU,Female,Qualifies for reduced/free lunch,34.0,56.0
+KG0JT,GOOBU,Female,Qualifies for reduced/free lunch,40.0,54.0
+KVGQU,GOOBU,Male,Qualifies for reduced/free lunch,38.0,53.0
+M34JB,GOOBU,Female,Qualifies for reduced/free lunch,40.0,50.0
+M3Q4U,GOOBU,Male,Qualifies for reduced/free lunch,40.0,55.0
+NFXF0,GOOBU,Female,Qualifies for reduced/free lunch,42.0,60.0
+QQJEC,GOOBU,Female,Qualifies for reduced/free lunch,36.0,59.0
+RDNR9,GOOBU,Male,Qualifies for reduced/free lunch,36.0,51.0
+SC382,GOOBU,Female,Qualifies for reduced/free lunch,41.0,58.0
+UYKRK,GOOBU,Female,Qualifies for reduced/free lunch,44.0,58.0
+UYY4U,GOOBU,Female,Qualifies for reduced/free lunch,39.0,56.0
+1Q5IJ,IDGFP,Female,Does not qualify,74.0,82.0
+244TH,IDGFP,Male,Does not qualify,74.0,85.0
+2RBHS,IDGFP,Male,Does not qualify,72.0,76.0
+4V1FZ,IDGFP,Female,Does not qualify,71.0,80.0
+66F0E,IDGFP,Male,Does not qualify,77.0,85.0
+81HQ5,IDGFP,Male,Does not qualify,79.0,86.0
+AZ8TD,IDGFP,Female,Does not qualify,73.0,82.0
+BFTIU,IDGFP,Female,Does not qualify,74.0,82.0
+ECID0,IDGFP,Male,Does not qualify,73.0,85.0
+EKP6D,IDGFP,Male,Does not qualify,74.0,85.0
+LLVCV,IDGFP,Female,Does not qualify,72.0,87.0
+MNYAI,IDGFP,Male,Does not qualify,66.0,88.0
+MRJP3,IDGFP,Male,Does not qualify,75.0,86.0
+NNVWK,IDGFP,Male,Does not qualify,74.0,85.0
+O8JV2,IDGFP,Female,Does not qualify,74.0,84.0
+OD8GS,IDGFP,Male,Does not qualify,74.0,85.0
+OLXN2,IDGFP,Male,Does not qualify,74.0,85.0
+TDTSM,IDGFP,Male,Does not qualify,69.0,80.0
+VX97O,IDGFP,Female,Does not qualify,71.0,80.0
+WTS1I,IDGFP,Female,Does not qualify,74.0,85.0
+ZHM15,IDGFP,Female,Does not qualify,69.0,81.0
+ZJ9AC,IDGFP,Male,Does not qualify,72.0,80.0
+6AY2E,IDGFP,Female,Does not qualify,82.0,93.0
+70GY7,IDGFP,Male,Does not qualify,79.0,90.0
+72NKS,IDGFP,Female,Does not qualify,73.0,92.0
+9D5GC,IDGFP,Male,Does not qualify,78.0,97.0
+A99SV,IDGFP,Female,Does not qualify,74.0,93.0
+BU6TQ,IDGFP,Male,Does not qualify,82.0,87.0
+F5H1B,IDGFP,Male,Does not qualify,74.0,95.0
+FZDNX,IDGFP,Male,Does not qualify,77.0,91.0
+GBC87,IDGFP,Female,Does not qualify,78.0,91.0
+HHYKH,IDGFP,Female,Does not qualify,79.0,99.0
+IUKHE,IDGFP,Female,Does not qualify,76.0,92.0
+IWFBI,IDGFP,Male,Does not qualify,75.0,91.0
+MKL3E,IDGFP,Male,Does not qualify,72.0,87.0
+NYDF6,IDGFP,Male,Does not qualify,77.0,88.0
+PH300,IDGFP,Male,Does not qualify,71.0,88.0
+Q4Q2T,IDGFP,Female,Does not qualify,80.0,95.0
+QZPO5,IDGFP,Male,Does not qualify,73.0,89.0
+SA51C,IDGFP,Male,Does not qualify,77.0,94.0
+U10TY,IDGFP,Male,Does not qualify,78.0,95.0
+UF2ZX,IDGFP,Male,Does not qualify,76.0,90.0
+YLIKU,IDGFP,Female,Does not qualify,78.0,96.0
+0I7BC,IDGFP,Male,Does not qualify,78.0,88.0
+1MZ88,IDGFP,Female,Does not qualify,75.0,88.0
+3OE0R,IDGFP,Male,Does not qualify,76.0,79.0
+7FG13,IDGFP,Female,Does not qualify,75.0,84.0
+8JLKV,IDGFP,Female,Does not qualify,70.0,87.0
+B3Q7F,IDGFP,Female,Does not qualify,70.0,86.0
+BD68G,IDGFP,Male,Does not qualify,69.0,83.0
+BYOML,IDGFP,Female,Does not qualify,76.0,83.0
+CKFUH,IDGFP,Female,Does not qualify,71.0,83.0
+DAAC3,IDGFP,Female,Does not qualify,73.0,82.0
+K0RE7,IDGFP,Male,Does not qualify,73.0,80.0
+KELXA,IDGFP,Male,Does not qualify,78.0,81.0
+KO0KO,IDGFP,Female,Does not qualify,77.0,83.0
+MABFE,IDGFP,Female,Does not qualify,75.0,86.0
+NI2JW,IDGFP,Male,Does not qualify,77.0,87.0
+QXGYA,IDGFP,Female,Does not qualify,71.0,79.0
+T03W3,IDGFP,Female,Does not qualify,69.0,79.0
+1QLNQ,IDGFP,Female,Does not qualify,85.0,98.0
+37DM6,IDGFP,Female,Does not qualify,83.0,96.0
+9JGL2,IDGFP,Female,Does not qualify,84.0,99.0
+BYVSP,IDGFP,Male,Does not qualify,86.0,100.0
+D9SR6,IDGFP,Female,Does not qualify,83.0,100.0
+HXUZG,IDGFP,Male,Does not qualify,89.0,98.0
+K5955,IDGFP,Male,Does not qualify,85.0,100.0
+NWT24,IDGFP,Male,Does not qualify,80.0,95.0
+P32P9,IDGFP,Male,Does not qualify,83.0,100.0
+QXTHU,IDGFP,Male,Does not qualify,93.0,100.0
+RG9R4,IDGFP,Male,Does not qualify,83.0,100.0
+RVC99,IDGFP,Female,Does not qualify,86.0,98.0
+SH2DM,IDGFP,Male,Does not qualify,88.0,100.0
+TRDWB,IDGFP,Male,Does not qualify,84.0,96.0
+UZ1YR,IDGFP,Male,Does not qualify,81.0,95.0
+VT3PJ,IDGFP,Female,Does not qualify,87.0,98.0
+W4KYQ,IDGFP,Female,Does not qualify,81.0,100.0
+18U47,IDGFP,Male,Does not qualify,64.0,75.0
+2DSRE,IDGFP,Female,Does not qualify,71.0,81.0
+5NROF,IDGFP,Male,Does not qualify,64.0,81.0
+66QL7,IDGFP,Male,Does not qualify,66.0,82.0
+6OF17,IDGFP,Female,Does not qualify,72.0,79.0
+703OV,IDGFP,Female,Does not qualify,71.0,75.0
+AKMB6,IDGFP,Female,Does not qualify,67.0,81.0
+EKU9C,IDGFP,Male,Does not qualify,66.0,76.0
+GZBOQ,IDGFP,Male,Does not qualify,68.0,79.0
+H5UUL,IDGFP,Male,Does not qualify,73.0,81.0
+I284N,IDGFP,Female,Does not qualify,68.0,80.0
+I3PZA,IDGFP,Female,Does not qualify,71.0,81.0
+IHVXF,IDGFP,Male,Does not qualify,68.0,76.0
+RGOYE,IDGFP,Male,Does not qualify,63.0,77.0
+UBRDA,IDGFP,Female,Does not qualify,70.0,86.0
+XBZ3J,IDGFP,Male,Does not qualify,68.0,77.0
+XHZRD,IDGFP,Female,Does not qualify,71.0,74.0
+1QW92,KFZMY,Male,Qualifies for reduced/free lunch,39.0,59.0
+20GY6,KFZMY,Male,Qualifies for reduced/free lunch,39.0,53.0
+270VO,KFZMY,Male,Qualifies for reduced/free lunch,39.0,59.0
+2E0P4,KFZMY,Female,Qualifies for reduced/free lunch,42.0,55.0
+47R59,KFZMY,Male,Qualifies for reduced/free lunch,39.0,57.0
+4O7F9,KFZMY,Female,Qualifies for reduced/free lunch,43.0,57.0
+AXQ2I,KFZMY,Female,Qualifies for reduced/free lunch,37.0,52.0
+BOSK4,KFZMY,Female,Does not qualify,45.0,67.0
+C2UIR,KFZMY,Female,Does not qualify,45.0,61.0
+CO91R,KFZMY,Male,Qualifies for reduced/free lunch,38.0,57.0
+D1K24,KFZMY,Female,Qualifies for reduced/free lunch,41.0,51.0
+HHVX3,KFZMY,Female,Qualifies for reduced/free lunch,40.0,58.0
+KUSRN,KFZMY,Male,Qualifies for reduced/free lunch,41.0,55.0
+LRZXP,KFZMY,Male,Does not qualify,47.0,62.0
+MOWQW,KFZMY,Female,Qualifies for reduced/free lunch,49.0,62.0
+NTECN,KFZMY,Female,Qualifies for reduced/free lunch,44.0,57.0
+O64JQ,KFZMY,Male,Qualifies for reduced/free lunch,42.0,56.0
+O8S23,KFZMY,Male,Qualifies for reduced/free lunch,42.0,50.0
+OO4QN,KFZMY,Female,Qualifies for reduced/free lunch,43.0,56.0
+P014J,KFZMY,Female,Qualifies for reduced/free lunch,43.0,55.0
+P5OPK,KFZMY,Female,Qualifies for reduced/free lunch,43.0,56.0
+R0DLG,KFZMY,Female,Qualifies for reduced/free lunch,37.0,57.0
+RFKQ2,KFZMY,Male,Does not qualify,51.0,67.0
+S3J5U,KFZMY,Male,Qualifies for reduced/free lunch,45.0,58.0
+SJNNJ,KFZMY,Male,Qualifies for reduced/free lunch,43.0,62.0
+T02OH,KFZMY,Female,Qualifies for reduced/free lunch,43.0,61.0
+Y5XWB,KFZMY,Male,Qualifies for reduced/free lunch,39.0,55.0
+2UUOQ,KFZMY,Female,Does not qualify,44.0,56.0
+43IMD,KFZMY,Female,Qualifies for reduced/free lunch,40.0,56.0
+4JBGB,KFZMY,Male,Qualifies for reduced/free lunch,38.0,49.0
+4Q2NT,KFZMY,Female,Qualifies for reduced/free lunch,41.0,47.0
+4Y0J5,KFZMY,Male,Qualifies for reduced/free lunch,42.0,51.0
+808RV,KFZMY,Female,Qualifies for reduced/free lunch,43.0,56.0
+9KW69,KFZMY,Female,Qualifies for reduced/free lunch,39.0,55.0
+9NRJU,KFZMY,Female,Does not qualify,41.0,54.0
+ABNLD,KFZMY,Female,Qualifies for reduced/free lunch,39.0,54.0
+CGCGR,KFZMY,Female,Qualifies for reduced/free lunch,42.0,56.0
+CW0EO,KFZMY,Female,Does not qualify,47.0,54.0
+E6EPH,KFZMY,Female,Does not qualify,48.0,52.0
+FQE5C,KFZMY,Male,Qualifies for reduced/free lunch,41.0,47.0
+L2D86,KFZMY,Female,Qualifies for reduced/free lunch,37.0,49.0
+NS4LD,KFZMY,Female,Qualifies for reduced/free lunch,42.0,49.0
+P5H5B,KFZMY,Female,Does not qualify,42.0,51.0
+PFTGJ,KFZMY,Male,Qualifies for reduced/free lunch,38.0,48.0
+PJ4OB,KFZMY,Male,Qualifies for reduced/free lunch,45.0,50.0
+PR2SE,KFZMY,Male,Qualifies for reduced/free lunch,42.0,54.0
+RZ7VK,KFZMY,Male,Does not qualify,44.0,52.0
+RZ8R2,KFZMY,Male,Qualifies for reduced/free lunch,39.0,48.0
+V7B7N,KFZMY,Female,Qualifies for reduced/free lunch,42.0,53.0
+V8FEW,KFZMY,Male,Qualifies for reduced/free lunch,44.0,44.0
+XL187,KFZMY,Male,Qualifies for reduced/free lunch,39.0,51.0
+ZDWE1,KFZMY,Male,Qualifies for reduced/free lunch,39.0,47.0
+0EBJW,KZKKE,Female,Qualifies for reduced/free lunch,48.0,58.0
+1M0HM,KZKKE,Male,Qualifies for reduced/free lunch,48.0,60.0
+1OGHH,KZKKE,Male,Qualifies for reduced/free lunch,52.0,59.0
+2HYPB,KZKKE,Male,Qualifies for reduced/free lunch,48.0,55.0
+5F5S6,KZKKE,Male,Qualifies for reduced/free lunch,45.0,59.0
+5UKAH,KZKKE,Female,Qualifies for reduced/free lunch,43.0,62.0
+75PYA,KZKKE,Female,Qualifies for reduced/free lunch,51.0,62.0
+7UUD2,KZKKE,Male,Qualifies for reduced/free lunch,49.0,62.0
+9LSG0,KZKKE,Female,Qualifies for reduced/free lunch,45.0,56.0
+AD7YT,KZKKE,Male,Qualifies for reduced/free lunch,51.0,61.0
+DM6UL,KZKKE,Female,Qualifies for reduced/free lunch,49.0,55.0
+GCK1W,KZKKE,Male,Qualifies for reduced/free lunch,48.0,54.0
+KENTO,KZKKE,Male,Qualifies for reduced/free lunch,45.0,54.0
+O5PNU,KZKKE,Male,Qualifies for reduced/free lunch,48.0,53.0
+OQIGJ,KZKKE,Female,Qualifies for reduced/free lunch,50.0,55.0
+Q0U0I,KZKKE,Male,Qualifies for reduced/free lunch,46.0,57.0
+R859E,KZKKE,Male,Qualifies for reduced/free lunch,50.0,59.0
+RAJVR,KZKKE,Male,Qualifies for reduced/free lunch,48.0,54.0
+W7JZI,KZKKE,Female,Qualifies for reduced/free lunch,53.0,62.0
+WB0ZA,KZKKE,Female,Qualifies for reduced/free lunch,47.0,56.0
+1KE7L,KZKKE,Female,Qualifies for reduced/free lunch,32.0,40.0
+5LFSK,KZKKE,Female,Qualifies for reduced/free lunch,30.0,43.0
+BT8BY,KZKKE,Male,Qualifies for reduced/free lunch,28.0,42.0
+CTFB2,KZKKE,Male,Qualifies for reduced/free lunch,30.0,42.0
+DO21O,KZKKE,Male,Qualifies for reduced/free lunch,29.0,42.0
+EOZV5,KZKKE,Female,Qualifies for reduced/free lunch,30.0,36.0
+FNQIP,KZKKE,Female,Qualifies for reduced/free lunch,34.0,41.0
+GFVOX,KZKKE,Female,Qualifies for reduced/free lunch,28.0,37.0
+GONLU,KZKKE,Female,Qualifies for reduced/free lunch,29.0,39.0
+HF4C7,KZKKE,Female,Qualifies for reduced/free lunch,29.0,41.0
+JBZCX,KZKKE,Female,Qualifies for reduced/free lunch,29.0,40.0
+LK690,KZKKE,Female,Qualifies for reduced/free lunch,29.0,40.0
+LYT0H,KZKKE,Female,Qualifies for reduced/free lunch,32.0,39.0
+OPOZ3,KZKKE,Male,Qualifies for reduced/free lunch,29.0,43.0
+PMVCX,KZKKE,Female,Qualifies for reduced/free lunch,31.0,42.0
+QFYO5,KZKKE,Female,Qualifies for reduced/free lunch,27.0,41.0
+QLIX9,KZKKE,Male,Qualifies for reduced/free lunch,34.0,40.0
+QOAA6,KZKKE,Female,Qualifies for reduced/free lunch,27.0,43.0
+RHOL5,KZKKE,Male,Qualifies for reduced/free lunch,31.0,37.0
+T1N79,KZKKE,Female,Qualifies for reduced/free lunch,26.0,38.0
+ZRQGZ,KZKKE,Female,Qualifies for reduced/free lunch,32.0,43.0
+ZSLGX,KZKKE,Male,Qualifies for reduced/free lunch,30.0,42.0
+04TOE,KZKKE,Female,Qualifies for reduced/free lunch,33.0,42.0
+1ZWQW,KZKKE,Female,Qualifies for reduced/free lunch,34.0,44.0
+2DSZC,KZKKE,Male,Qualifies for reduced/free lunch,29.0,43.0
+8DGQQ,KZKKE,Male,Qualifies for reduced/free lunch,31.0,42.0
+8Q0G9,KZKKE,Female,Qualifies for reduced/free lunch,33.0,39.0
+AMERN,KZKKE,Male,Qualifies for reduced/free lunch,33.0,44.0
+BC0AI,KZKKE,Male,Qualifies for reduced/free lunch,33.0,45.0
+BVNY3,KZKKE,Male,Qualifies for reduced/free lunch,38.0,44.0
+CYTS4,KZKKE,Female,Qualifies for reduced/free lunch,36.0,46.0
+DIR4F,KZKKE,Male,Qualifies for reduced/free lunch,36.0,43.0
+FAJ8G,KZKKE,Male,Qualifies for reduced/free lunch,33.0,43.0
+FU2Q1,KZKKE,Male,Qualifies for reduced/free lunch,37.0,43.0
+FYF2E,KZKKE,Male,Qualifies for reduced/free lunch,34.0,45.0
+HQ18M,KZKKE,Female,Qualifies for reduced/free lunch,29.0,39.0
+JNSF2,KZKKE,Female,Qualifies for reduced/free lunch,33.0,42.0
+L33FR,KZKKE,Female,Qualifies for reduced/free lunch,32.0,45.0
+MXRZF,KZKKE,Female,Qualifies for reduced/free lunch,34.0,47.0
+P75GA,KZKKE,Female,Qualifies for reduced/free lunch,34.0,45.0
+Q4ZMR,KZKKE,Female,Qualifies for reduced/free lunch,36.0,49.0
+QA54S,KZKKE,Female,Qualifies for reduced/free lunch,33.0,45.0
+R64X5,KZKKE,Male,Qualifies for reduced/free lunch,32.0,44.0
+RGETN,KZKKE,Female,Qualifies for reduced/free lunch,36.0,49.0
+UPCU5,KZKKE,Male,Qualifies for reduced/free lunch,30.0,43.0
+XDNY7,KZKKE,Female,Qualifies for reduced/free lunch,32.0,45.0
+04AKE,KZKKE,Male,Qualifies for reduced/free lunch,48.0,54.0
+AQWWF,KZKKE,Male,Qualifies for reduced/free lunch,40.0,49.0
+B00OI,KZKKE,Female,Qualifies for reduced/free lunch,42.0,56.0
+BWKEO,KZKKE,Female,Qualifies for reduced/free lunch,43.0,59.0
+CNER1,KZKKE,Male,Qualifies for reduced/free lunch,45.0,55.0
+DGFMM,KZKKE,Female,Qualifies for reduced/free lunch,43.0,57.0
+DXI2U,KZKKE,Male,Qualifies for reduced/free lunch,47.0,59.0
+EI64V,KZKKE,Male,Qualifies for reduced/free lunch,44.0,55.0
+G5DJK,KZKKE,Male,Qualifies for reduced/free lunch,46.0,50.0
+GEAML,KZKKE,Male,Qualifies for reduced/free lunch,45.0,54.0
+GZWE8,KZKKE,Male,Qualifies for reduced/free lunch,45.0,52.0
+JKPGR,KZKKE,Male,Qualifies for reduced/free lunch,47.0,54.0
+LXZT1,KZKKE,Female,Qualifies for reduced/free lunch,43.0,52.0
+NC39S,KZKKE,Female,Qualifies for reduced/free lunch,41.0,53.0
+NO7A8,KZKKE,Male,Qualifies for reduced/free lunch,43.0,55.0
+NQWI4,KZKKE,Female,Qualifies for reduced/free lunch,50.0,60.0
+O4GER,KZKKE,Female,Qualifies for reduced/free lunch,42.0,50.0
+P72JH,KZKKE,Male,Qualifies for reduced/free lunch,42.0,57.0
+U33J8,KZKKE,Male,Qualifies for reduced/free lunch,37.0,52.0
+V1D5F,KZKKE,Male,Qualifies for reduced/free lunch,45.0,56.0
+V6XIY,KZKKE,Female,Qualifies for reduced/free lunch,43.0,59.0
+YMEER,KZKKE,Female,Qualifies for reduced/free lunch,47.0,62.0
+0B12B,KZKKE,Male,Qualifies for reduced/free lunch,28.0,40.0
+17QLQ,KZKKE,Female,Qualifies for reduced/free lunch,39.0,47.0
+20GR2,KZKKE,Male,Qualifies for reduced/free lunch,36.0,51.0
+5QQ2M,KZKKE,Female,Qualifies for reduced/free lunch,34.0,49.0
+7XHBP,KZKKE,Female,Qualifies for reduced/free lunch,35.0,46.0
+994YC,KZKKE,Male,Qualifies for reduced/free lunch,31.0,46.0
+9C08L,KZKKE,Male,Qualifies for reduced/free lunch,29.0,44.0
+BI4WF,KZKKE,Female,Qualifies for reduced/free lunch,32.0,46.0
+CRILM,KZKKE,Male,Qualifies for reduced/free lunch,32.0,38.0
+DRC00,KZKKE,Male,Qualifies for reduced/free lunch,31.0,45.0
+EXWSY,KZKKE,Female,Qualifies for reduced/free lunch,33.0,46.0
+IRP99,KZKKE,Male,Qualifies for reduced/free lunch,32.0,41.0
+KG5MF,KZKKE,Male,Qualifies for reduced/free lunch,35.0,45.0
+M2H7J,KZKKE,Male,Qualifies for reduced/free lunch,31.0,42.0
+NF7O4,KZKKE,Male,Qualifies for reduced/free lunch,36.0,40.0
+PA75T,KZKKE,Female,Qualifies for reduced/free lunch,35.0,45.0
+QM9VS,KZKKE,Male,Qualifies for reduced/free lunch,26.0,37.0
+R8HW2,KZKKE,Male,Qualifies for reduced/free lunch,30.0,44.0
+TF7O6,KZKKE,Male,Qualifies for reduced/free lunch,34.0,41.0
+UW2F0,KZKKE,Male,Qualifies for reduced/free lunch,29.0,43.0
+VM3EU,KZKKE,Male,Qualifies for reduced/free lunch,31.0,47.0
+WZ0HB,KZKKE,Male,Qualifies for reduced/free lunch,32.0,41.0
+Y2WEZ,KZKKE,Female,Qualifies for reduced/free lunch,36.0,45.0
+3Z4RO,LAYPA,Female,Does not qualify,65.0,76.0
+7QTEC,LAYPA,Female,Does not qualify,66.0,69.0
+AP72E,LAYPA,Female,Does not qualify,58.0,70.0
+DH9JM,LAYPA,Female,Does not qualify,67.0,79.0
+ETID2,LAYPA,Male,Does not qualify,60.0,70.0
+F4UXX,LAYPA,Male,Does not qualify,59.0,69.0
+FZS9D,LAYPA,Female,Does not qualify,58.0,71.0
+G9G77,LAYPA,Male,Does not qualify,62.0,74.0
+JW2EJ,LAYPA,Male,Does not qualify,60.0,68.0
+KDH19,LAYPA,Female,Does not qualify,66.0,74.0
+RL650,LAYPA,Female,Does not qualify,59.0,70.0
+RNSGC,LAYPA,Male,Does not qualify,63.0,70.0
+S2YL9,LAYPA,Male,Does not qualify,57.0,67.0
+T777S,LAYPA,Female,Does not qualify,58.0,70.0
+T9G1Q,LAYPA,Male,Does not qualify,58.0,71.0
+TZZPN,LAYPA,Male,Does not qualify,65.0,71.0
+UE2TY,LAYPA,Female,Does not qualify,67.0,74.0
+VKIEK,LAYPA,Female,Does not qualify,66.0,72.0
+VLB5M,LAYPA,Female,Does not qualify,63.0,72.0
+XM0J9,LAYPA,Female,Does not qualify,59.0,73.0
+YAHWM,LAYPA,Male,Does not qualify,64.0,73.0
+24PRY,LAYPA,Male,Does not qualify,62.0,71.0
+AEGY3,LAYPA,Female,Does not qualify,53.0,71.0
+BH0EA,LAYPA,Male,Does not qualify,56.0,71.0
+DNFA3,LAYPA,Female,Does not qualify,66.0,72.0
+E794Z,LAYPA,Male,Does not qualify,65.0,72.0
+EYQXU,LAYPA,Male,Does not qualify,62.0,70.0
+FD8K3,LAYPA,Female,Does not qualify,60.0,75.0
+GWG8B,LAYPA,Male,Does not qualify,59.0,67.0
+H1F9J,LAYPA,Male,Does not qualify,60.0,70.0
+IQ0AV,LAYPA,Male,Does not qualify,63.0,72.0
+KJB8T,LAYPA,Female,Does not qualify,62.0,73.0
+LKLZR,LAYPA,Female,Does not qualify,66.0,71.0
+P8278,LAYPA,Female,Does not qualify,56.0,63.0
+POKHM,LAYPA,Female,Does not qualify,60.0,71.0
+QW175,LAYPA,Female,Does not qualify,59.0,69.0
+VF28H,LAYPA,Male,Does not qualify,54.0,65.0
+W9FKB,LAYPA,Female,Does not qualify,61.0,70.0
+X5W90,LAYPA,Female,Does not qualify,60.0,66.0
+YZVDZ,LAYPA,Female,Does not qualify,60.0,70.0
+4SU16,LAYPA,Male,Does not qualify,65.0,82.0
+6M3HN,LAYPA,Male,Does not qualify,66.0,82.0
+7Q9LQ,LAYPA,Female,Does not qualify,67.0,83.0
+CES33,LAYPA,Female,Does not qualify,68.0,84.0
+FMADC,LAYPA,Male,Does not qualify,63.0,74.0
+GF6MA,LAYPA,Female,Does not qualify,63.0,80.0
+GOPGB,LAYPA,Male,Does not qualify,56.0,72.0
+I115S,LAYPA,Female,Does not qualify,60.0,78.0
+JFR4G,LAYPA,Male,Does not qualify,63.0,81.0
+O0CCH,LAYPA,Female,Does not qualify,65.0,80.0
+PPU2J,LAYPA,Male,Does not qualify,68.0,80.0
+PTA70,LAYPA,Female,Does not qualify,64.0,79.0
+R0Z5D,LAYPA,Female,Does not qualify,65.0,79.0
+X916N,LAYPA,Male,Does not qualify,67.0,83.0
+XQ69V,LAYPA,Female,Does not qualify,62.0,80.0
+YU9XI,LAYPA,Female,Does not qualify,63.0,83.0
+Z1ZME,LAYPA,Female,Does not qualify,67.0,78.0
+9N9B1,OJOBU,Female,Qualifies for reduced/free lunch,56.0,71.0
+CDRUO,OJOBU,Female,Does not qualify,62.0,77.0
+DBWEY,OJOBU,Male,Does not qualify,63.0,77.0
+DOV3H,OJOBU,Male,Does not qualify,58.0,79.0
+EL1BK,OJOBU,Male,Does not qualify,61.0,78.0
+EXWEA,OJOBU,Male,Does not qualify,65.0,78.0
+HWJG5,OJOBU,Male,Qualifies for reduced/free lunch,58.0,72.0
+K1FZT,OJOBU,Male,Does not qualify,61.0,80.0
+KGZK8,OJOBU,Male,Does not qualify,67.0,84.0
+N4AJE,OJOBU,Male,Does not qualify,58.0,78.0
+PQFNG,OJOBU,Male,Does not qualify,62.0,78.0
+SYCX7,OJOBU,Male,Does not qualify,65.0,78.0
+VZ1NV,OJOBU,Female,Does not qualify,63.0,81.0
+W6HC7,OJOBU,Male,Does not qualify,62.0,77.0
+WLJYG,OJOBU,Male,Does not qualify,62.0,82.0
+ZOAK4,OJOBU,Female,Does not qualify,63.0,82.0
+ZVM0Q,OJOBU,Female,Does not qualify,60.0,81.0
+16CA3,OJOBU,Female,Does not qualify,50.0,60.0
+2XO1P,OJOBU,Male,Does not qualify,47.0,62.0
+74C33,OJOBU,Male,Does not qualify,48.0,58.0
+8PV7H,OJOBU,Male,Qualifies for reduced/free lunch,43.0,51.0
+BIN4L,OJOBU,Female,Does not qualify,50.0,59.0
+BNGRW,OJOBU,Female,Does not qualify,48.0,58.0
+BZZOL,OJOBU,Male,Does not qualify,48.0,60.0
+E2AAO,OJOBU,Male,Does not qualify,44.0,56.0
+IAKEV,OJOBU,Male,Does not qualify,51.0,60.0
+K6ZLE,OJOBU,Female,Does not qualify,44.0,56.0
+KG40V,OJOBU,Female,Does not qualify,53.0,62.0
+MBLOL,OJOBU,Male,Does not qualify,47.0,55.0
+MESP7,OJOBU,Female,Does not qualify,46.0,50.0
+N6JN2,OJOBU,Female,Qualifies for reduced/free lunch,50.0,53.0
+O9YAY,OJOBU,Female,Does not qualify,53.0,59.0
+OQBYX,OJOBU,Male,Does not qualify,47.0,58.0
+QPY1S,OJOBU,Male,Does not qualify,45.0,57.0
+RDYAU,OJOBU,Male,Does not qualify,49.0,60.0
+RQT3M,OJOBU,Male,Does not qualify,45.0,56.0
+TSOM0,OJOBU,Male,Does not qualify,47.0,58.0
+V2JU6,OJOBU,Male,Does not qualify,49.0,68.0
+WR4NN,OJOBU,Male,Does not qualify,44.0,54.0
+3ZUP5,OJOBU,Male,Does not qualify,60.0,70.0
+4AV4I,OJOBU,Male,Does not qualify,55.0,68.0
+4SQKQ,OJOBU,Male,Does not qualify,59.0,68.0
+50MY6,OJOBU,Male,Does not qualify,60.0,71.0
+6I95C,OJOBU,Male,Does not qualify,64.0,76.0
+7IRLR,OJOBU,Female,Does not qualify,62.0,74.0
+A0IVI,OJOBU,Male,Does not qualify,63.0,71.0
+AJN0V,OJOBU,Male,Does not qualify,60.0,66.0
+GVD77,OJOBU,Male,Does not qualify,58.0,68.0
+I618Z,OJOBU,Female,Does not qualify,61.0,72.0
+J2AQX,OJOBU,Female,Does not qualify,62.0,73.0
+KC6W4,OJOBU,Male,Does not qualify,59.0,72.0
+LASVX,OJOBU,Male,Qualifies for reduced/free lunch,57.0,73.0
+QUDKL,OJOBU,Female,Qualifies for reduced/free lunch,66.0,72.0
+RD5O5,OJOBU,Male,Does not qualify,61.0,75.0
+RFA8S,OJOBU,Male,Does not qualify,61.0,71.0
+V81SU,OJOBU,Female,Qualifies for reduced/free lunch,55.0,68.0
+VXJGW,OJOBU,Male,Does not qualify,57.0,68.0
+WMMW4,OJOBU,Female,Does not qualify,58.0,68.0
+1VMNH,OJOBU,Male,Does not qualify,59.0,66.0
+49F3U,OJOBU,Male,Does not qualify,62.0,69.0
+6QWJK,OJOBU,Male,Qualifies for reduced/free lunch,53.0,62.0
+8TE8Y,OJOBU,Female,Does not qualify,52.0,70.0
+AC5BK,OJOBU,Female,Does not qualify,63.0,73.0
+AD5OK,OJOBU,Male,Qualifies for reduced/free lunch,55.0,62.0
+AFWCA,OJOBU,Male,Does not qualify,56.0,67.0
+CXMKS,OJOBU,Male,Does not qualify,57.0,67.0
+DKUQ5,OJOBU,Male,Qualifies for reduced/free lunch,54.0,63.0
+E9UFB,OJOBU,Male,Does not qualify,59.0,62.0
+GK7UQ,OJOBU,Male,Does not qualify,59.0,71.0
+I93O1,OJOBU,Female,Qualifies for reduced/free lunch,55.0,66.0
+ILXQY,OJOBU,Female,Does not qualify,53.0,68.0
+KZPFA,OJOBU,Female,Does not qualify,57.0,67.0
+LJSMA,OJOBU,Male,Does not qualify,61.0,67.0
+MASAB,OJOBU,Female,Does not qualify,57.0,69.0
+MF1NR,OJOBU,Male,Does not qualify,60.0,65.0
+PYKYM,OJOBU,Female,Does not qualify,58.0,74.0
+UCM5B,OJOBU,Female,Does not qualify,59.0,68.0
+W1EY9,OJOBU,Male,Does not qualify,58.0,66.0
+YGARH,OJOBU,Male,Does not qualify,59.0,68.0
+YPXKI,OJOBU,Male,Does not qualify,58.0,74.0
+ZGDQE,OJOBU,Male,Does not qualify,56.0,62.0
+1X4LE,QOQTS,Female,Does not qualify,44.0,57.0
+3K8VB,QOQTS,Female,Does not qualify,43.0,61.0
+4FOOR,QOQTS,Male,Does not qualify,45.0,57.0
+6F38N,QOQTS,Male,Does not qualify,44.0,58.0
+6V19X,QOQTS,Male,Does not qualify,47.0,64.0
+7LULA,QOQTS,Male,Qualifies for reduced/free lunch,42.0,66.0
+9E26H,QOQTS,Female,Does not qualify,46.0,68.0
+A4B5Z,QOQTS,Female,Does not qualify,39.0,60.0
+BWHHF,QOQTS,Male,Does not qualify,39.0,61.0
+CPQZ5,QOQTS,Female,Qualifies for reduced/free lunch,42.0,56.0
+CWNPG,QOQTS,Male,Does not qualify,40.0,60.0
+EZVOU,QOQTS,Female,Does not qualify,43.0,59.0
+FTOMN,QOQTS,Female,Does not qualify,44.0,60.0
+G0DSR,QOQTS,Female,Does not qualify,45.0,60.0
+GPNQZ,QOQTS,Female,Does not qualify,48.0,60.0
+GRB8C,QOQTS,Male,Does not qualify,43.0,59.0
+JVF58,QOQTS,Female,Does not qualify,43.0,59.0
+L9CIM,QOQTS,Female,Does not qualify,43.0,63.0
+LZDOV,QOQTS,Male,Does not qualify,50.0,63.0
+OSXFO,QOQTS,Female,Does not qualify,39.0,61.0
+OV3PC,QOQTS,Male,Does not qualify,47.0,63.0
+PUJFV,QOQTS,Female,Does not qualify,49.0,68.0
+SGVTD,QOQTS,Female,Does not qualify,41.0,59.0
+VVHRQ,QOQTS,Female,Qualifies for reduced/free lunch,47.0,57.0
+W217G,QOQTS,Male,Does not qualify,47.0,61.0
+WHJQO,QOQTS,Male,Does not qualify,44.0,59.0
+XIV97,QOQTS,Male,Does not qualify,46.0,59.0
+YGGJT,QOQTS,Male,Does not qualify,45.0,64.0
+1VF7G,QOQTS,Female,Does not qualify,52.0,59.0
+5884X,QOQTS,Female,Does not qualify,50.0,61.0
+9TCBM,QOQTS,Female,Does not qualify,54.0,60.0
+A8L7P,QOQTS,Female,Does not qualify,50.0,61.0
+BOMPO,QOQTS,Female,Does not qualify,46.0,60.0
+BZG06,QOQTS,Male,Does not qualify,51.0,63.0
+CE7P3,QOQTS,Male,Does not qualify,49.0,59.0
+FIGCP,QOQTS,Female,Does not qualify,51.0,54.0
+G8C0U,QOQTS,Female,Does not qualify,46.0,54.0
+J39HG,QOQTS,Female,Does not qualify,48.0,61.0
+J46NP,QOQTS,Female,Does not qualify,54.0,64.0
+K58CZ,QOQTS,Male,Does not qualify,51.0,59.0
+LJWJ5,QOQTS,Female,Does not qualify,53.0,57.0
+M4BRQ,QOQTS,Male,Does not qualify,51.0,64.0
+N8UTT,QOQTS,Male,Does not qualify,51.0,58.0
+OXLY0,QOQTS,Male,Does not qualify,50.0,61.0
+PY1GY,QOQTS,Male,Does not qualify,49.0,56.0
+RP33I,QOQTS,Female,Does not qualify,50.0,58.0
+T61LX,QOQTS,Male,Does not qualify,53.0,61.0
+T94QN,QOQTS,Male,Does not qualify,49.0,55.0
+W95QH,QOQTS,Female,Does not qualify,49.0,59.0
+WUC3P,QOQTS,Female,Does not qualify,49.0,56.0
+XILO8,QOQTS,Female,Does not qualify,45.0,58.0
+ZUFG3,QOQTS,Female,Does not qualify,46.0,58.0
+0MXW8,QOQTS,Male,Does not qualify,53.0,58.0
+0VLI0,QOQTS,Male,Does not qualify,49.0,58.0
+1MUNN,QOQTS,Male,Does not qualify,55.0,61.0
+64P1X,QOQTS,Male,Does not qualify,53.0,63.0
+6S1RB,QOQTS,Male,Does not qualify,47.0,55.0
+8KXVK,QOQTS,Male,Does not qualify,50.0,61.0
+9PPQ2,QOQTS,Male,Does not qualify,50.0,61.0
+9TOAI,QOQTS,Female,Does not qualify,50.0,61.0
+A8OCT,QOQTS,Male,Does not qualify,49.0,56.0
+F41NC,QOQTS,Female,Does not qualify,52.0,60.0
+GC32I,QOQTS,Male,Does not qualify,49.0,60.0
+JVQOT,QOQTS,Male,Does not qualify,46.0,57.0
+L5MKI,QOQTS,Female,Does not qualify,50.0,62.0
+M401J,QOQTS,Female,Does not qualify,50.0,59.0
+M4RHA,QOQTS,Female,Does not qualify,50.0,63.0
+N1ZJX,QOQTS,Male,Does not qualify,52.0,61.0
+NNP1T,QOQTS,Female,Does not qualify,49.0,63.0
+O3INT,QOQTS,Female,Does not qualify,48.0,66.0
+P7B9V,QOQTS,Female,Does not qualify,47.0,51.0
+RAAGQ,QOQTS,Female,Does not qualify,54.0,64.0
+RDSJZ,QOQTS,Male,Does not qualify,52.0,60.0
+Y0SC0,QOQTS,Male,Does not qualify,49.0,60.0
+0ATHH,QOQTS,Male,Does not qualify,59.0,66.0
+36XVY,QOQTS,Male,Does not qualify,49.0,66.0
+5F3AB,QOQTS,Female,Does not qualify,51.0,58.0
+6B3YQ,QOQTS,Female,Does not qualify,55.0,64.0
+7SAPU,QOQTS,Female,Qualifies for reduced/free lunch,48.0,62.0
+7UYMS,QOQTS,Female,Does not qualify,51.0,64.0
+7VV8V,QOQTS,Male,Does not qualify,56.0,69.0
+A2OLH,QOQTS,Male,Does not qualify,54.0,65.0
+D42XF,QOQTS,Male,Does not qualify,53.0,63.0
+DSS9N,QOQTS,Female,Does not qualify,51.0,62.0
+EP1OW,QOQTS,Male,Does not qualify,55.0,64.0
+FCNU9,QOQTS,Female,Does not qualify,55.0,69.0
+G3900,QOQTS,Male,Does not qualify,60.0,65.0
+H2O56,QOQTS,Male,Does not qualify,51.0,62.0
+IEA4E,QOQTS,Female,Does not qualify,53.0,62.0
+IXNI7,QOQTS,Female,Does not qualify,51.0,62.0
+KV76E,QOQTS,Male,Does not qualify,56.0,60.0
+M3C4F,QOQTS,Female,Does not qualify,54.0,62.0
+MINBK,QOQTS,Male,Qualifies for reduced/free lunch,52.0,57.0
+NH2XP,QOQTS,Male,Does not qualify,54.0,64.0
+NK0RT,QOQTS,Male,Does not qualify,54.0,62.0
+OFPX7,QOQTS,Female,Does not qualify,50.0,56.0
+SDWCT,QOQTS,Female,Does not qualify,52.0,59.0
+U355K,QOQTS,Female,Does not qualify,51.0,61.0
+WKFXN,QOQTS,Male,Does not qualify,54.0,62.0
+WPUEY,QOQTS,Female,Does not qualify,47.0,58.0
+XSWF9,QOQTS,Female,Does not qualify,53.0,61.0
+YZBI1,QOQTS,Female,Does not qualify,52.0,65.0
+2Y5KB,QOQTS,Male,Does not qualify,63.0,71.0
+3G0AI,QOQTS,Male,Qualifies for reduced/free lunch,62.0,78.0
+3TPE1,QOQTS,Male,Does not qualify,63.0,76.0
+59VYG,QOQTS,Male,Does not qualify,62.0,80.0
+AKDEM,QOQTS,Female,Does not qualify,63.0,76.0
+AO6BG,QOQTS,Male,Does not qualify,60.0,75.0
+EJAMZ,QOQTS,Male,Does not qualify,59.0,85.0
+FZF17,QOQTS,Female,Does not qualify,57.0,78.0
+G193S,QOQTS,Female,Does not qualify,65.0,78.0
+H5DOH,QOQTS,Male,Does not qualify,57.0,81.0
+HD0QR,QOQTS,Male,Does not qualify,58.0,78.0
+HSJ6V,QOQTS,Female,Does not qualify,58.0,77.0
+I0YK4,QOQTS,Male,Does not qualify,59.0,76.0
+ICRP4,QOQTS,Male,Does not qualify,63.0,76.0
+LJWJ6,QOQTS,Male,Does not qualify,67.0,79.0
+MHXTU,QOQTS,Male,Does not qualify,65.0,78.0
+QPJGR,QOQTS,Female,Does not qualify,63.0,79.0
+QS03G,QOQTS,Female,Does not qualify,65.0,79.0
+QW5M0,QOQTS,Male,Qualifies for reduced/free lunch,57.0,73.0
+SAYN0,QOQTS,Female,Does not qualify,62.0,76.0
+UC234,QOQTS,Male,Does not qualify,63.0,74.0
+UM88I,QOQTS,Female,Does not qualify,65.0,76.0
+W4M1T,QOQTS,Male,Does not qualify,61.0,79.0
+X32YR,QOQTS,Female,Does not qualify,66.0,81.0
+YS6D7,QOQTS,Male,Does not qualify,62.0,81.0
+0HAGQ,QOQTS,Female,Does not qualify,59.0,73.0
+1DSAG,QOQTS,Female,Does not qualify,57.0,68.0
+2RXVE,QOQTS,Male,Does not qualify,61.0,63.0
+3Z0V4,QOQTS,Male,Does not qualify,54.0,66.0
+4QH1V,QOQTS,Male,Does not qualify,54.0,65.0
+5BK70,QOQTS,Female,Does not qualify,59.0,70.0
+9Q9RK,QOQTS,Female,Does not qualify,57.0,66.0
+AAUAP,QOQTS,Female,Qualifies for reduced/free lunch,57.0,64.0
+F3G51,QOQTS,Female,Does not qualify,56.0,69.0
+F5RU2,QOQTS,Male,Does not qualify,53.0,67.0
+FSTS2,QOQTS,Female,Does not qualify,59.0,69.0
+HGCQA,QOQTS,Male,Does not qualify,60.0,74.0
+IDSWX,QOQTS,Female,Does not qualify,61.0,71.0
+JZA64,QOQTS,Female,Does not qualify,58.0,70.0
+N3IUQ,QOQTS,Female,Does not qualify,56.0,69.0
+NRHKL,QOQTS,Male,Qualifies for reduced/free lunch,56.0,66.0
+NYDID,QOQTS,Female,Does not qualify,63.0,73.0
+QFCSU,QOQTS,Male,Does not qualify,58.0,70.0
+QLVBH,QOQTS,Female,Does not qualify,56.0,68.0
+S8BUS,QOQTS,Male,Does not qualify,59.0,68.0
+TQ7FO,QOQTS,Male,Does not qualify,63.0,68.0
+WUBEL,QOQTS,Female,Does not qualify,59.0,71.0
+15087,UAGPU,Male,Does not qualify,61.0,70.0
+68TLS,UAGPU,Male,Does not qualify,56.0,64.0
+8LQQZ,UAGPU,Female,Does not qualify,64.0,68.0
+96R50,UAGPU,Male,Does not qualify,60.0,67.0
+9V75V,UAGPU,Male,Does not qualify,56.0,73.0
+AUZ9N,UAGPU,Male,Does not qualify,53.0,67.0
+B19E2,UAGPU,Male,Does not qualify,63.0,69.0
+B2NRX,UAGPU,Male,Does not qualify,55.0,69.0
+CFH25,UAGPU,Male,Does not qualify,55.0,64.0
+DI6CN,UAGPU,Female,Does not qualify,60.0,71.0
+EEW82,UAGPU,Female,Does not qualify,59.0,65.0
+F9L7V,UAGPU,Female,Does not qualify,58.0,68.0
+GDU43,UAGPU,Female,Does not qualify,55.0,65.0
+JZQIP,UAGPU,Female,Does not qualify,62.0,67.0
+LHLZ0,UAGPU,Male,Does not qualify,50.0,65.0
+O5U7H,UAGPU,Male,Does not qualify,59.0,69.0
+T3MLI,UAGPU,Female,Does not qualify,56.0,66.0
+T51PH,UAGPU,Female,Does not qualify,63.0,75.0
+TM3WU,UAGPU,Male,Does not qualify,59.0,70.0
+VOASI,UAGPU,Female,Does not qualify,64.0,70.0
+YQ2AF,UAGPU,Female,Does not qualify,64.0,69.0
+YV3L0,UAGPU,Male,Does not qualify,60.0,70.0
+0VF9P,UAGPU,Female,Does not qualify,67.0,81.0
+10GPN,UAGPU,Male,Does not qualify,62.0,68.0
+2N2TX,UAGPU,Female,Does not qualify,68.0,78.0
+5JSKA,UAGPU,Female,Qualifies for reduced/free lunch,58.0,70.0
+5ZOS4,UAGPU,Male,Does not qualify,61.0,73.0
+94EK4,UAGPU,Female,Does not qualify,65.0,76.0
+B8GPJ,UAGPU,Female,Does not qualify,58.0,74.0
+BAEWN,UAGPU,Male,Does not qualify,61.0,79.0
+G4UTB,UAGPU,Male,Does not qualify,67.0,73.0
+GDMQS,UAGPU,Female,Does not qualify,66.0,76.0
+KTSB7,UAGPU,Female,Does not qualify,66.0,72.0
+KXPEE,UAGPU,Female,Does not qualify,70.0,83.0
+N42JI,UAGPU,Male,Does not qualify,62.0,74.0
+P5X30,UAGPU,Male,Does not qualify,62.0,72.0
+RTV9D,UAGPU,Male,Does not qualify,65.0,77.0
+S8HYS,UAGPU,Female,Does not qualify,66.0,75.0
+SE4E4,UAGPU,Female,Does not qualify,64.0,73.0
+TQBTQ,UAGPU,Female,Does not qualify,65.0,72.0
+VEXWA,UAGPU,Female,Does not qualify,69.0,79.0
+W6LZR,UAGPU,Female,Does not qualify,62.0,68.0
+Y4ZOH,UAGPU,Male,Does not qualify,68.0,74.0
+YIFYG,UAGPU,Female,Does not qualify,63.0,71.0
+ZEUU8,UAGPU,Female,Does not qualify,70.0,75.0
+17EXU,UAGPU,Female,Does not qualify,54.0,68.0
+23BMT,UAGPU,Female,Does not qualify,62.0,69.0
+2GDJ8,UAGPU,Male,Does not qualify,58.0,67.0
+36YGH,UAGPU,Male,Does not qualify,60.0,68.0
+7NE6P,UAGPU,Female,Does not qualify,63.0,72.0
+93BY7,UAGPU,Male,Does not qualify,56.0,69.0
+ATEDY,UAGPU,Male,Does not qualify,57.0,66.0
+EHWEI,UAGPU,Male,Does not qualify,58.0,68.0
+F6MAL,UAGPU,Male,Does not qualify,56.0,69.0
+GVD2M,UAGPU,Male,Does not qualify,56.0,67.0
+JM80A,UAGPU,Male,Does not qualify,60.0,69.0
+LQAVG,UAGPU,Male,Does not qualify,65.0,72.0
+N1C5K,UAGPU,Male,Does not qualify,62.0,67.0
+OJM71,UAGPU,Female,Does not qualify,63.0,71.0
+S0UET,UAGPU,Female,Does not qualify,57.0,68.0
+TD1N0,UAGPU,Female,Does not qualify,52.0,66.0
+V9D0M,UAGPU,Female,Does not qualify,58.0,69.0
+WNW5P,UAGPU,Female,Does not qualify,57.0,67.0
+XGFGI,UAGPU,Male,Does not qualify,58.0,67.0
+Y2S14,UAGPU,Male,Does not qualify,60.0,66.0
+YBGHP,UAGPU,Female,Qualifies for reduced/free lunch,51.0,62.0
+2SCI6,UAGPU,Female,Does not qualify,73.0,79.0
+58GQ3,UAGPU,Male,Does not qualify,67.0,77.0
+5HZS0,UAGPU,Female,Does not qualify,68.0,79.0
+6O11H,UAGPU,Male,Does not qualify,70.0,78.0
+7BH6I,UAGPU,Male,Does not qualify,68.0,77.0
+B4BQ2,UAGPU,Female,Does not qualify,66.0,71.0
+BEDRH,UAGPU,Male,Does not qualify,65.0,81.0
+BZH4Z,UAGPU,Female,Does not qualify,70.0,77.0
+C6U78,UAGPU,Female,Does not qualify,67.0,79.0
+CG4PV,UAGPU,Female,Does not qualify,64.0,71.0
+DBWGP,UAGPU,Male,Does not qualify,64.0,77.0
+GGHJ9,UAGPU,Female,Does not qualify,67.0,75.0
+I9AT5,UAGPU,Male,Does not qualify,65.0,73.0
+LOKKS,UAGPU,Male,Does not qualify,67.0,75.0
+NA0CP,UAGPU,Female,Does not qualify,68.0,76.0
+PXW4K,UAGPU,Female,Does not qualify,72.0,73.0
+Q94QX,UAGPU,Male,Does not qualify,69.0,79.0
+RK9Y8,UAGPU,Male,Does not qualify,71.0,79.0
+RUJQB,UAGPU,Female,Does not qualify,71.0,81.0
+X7NOM,UAGPU,Male,Does not qualify,68.0,77.0
+ZU75P,UAGPU,Male,Does not qualify,68.0,78.0
+1LGMI,UKPGS,Female,Does not qualify,84.0,95.0
+3K3MA,UKPGS,Female,Does not qualify,83.0,93.0
+5AT7Y,UKPGS,Male,Does not qualify,84.0,91.0
+5OKGY,UKPGS,Female,Does not qualify,87.0,94.0
+6GUH0,UKPGS,Female,Does not qualify,80.0,94.0
+BVV7P,UKPGS,Male,Does not qualify,76.0,93.0
+CQRYE,UKPGS,Female,Does not qualify,91.0,98.0
+CSZV6,UKPGS,Male,Does not qualify,82.0,94.0
+MVXQR,UKPGS,Male,Does not qualify,83.0,91.0
+N1923,UKPGS,Female,Does not qualify,82.0,94.0
+NNADP,UKPGS,Male,Does not qualify,85.0,94.0
+OEVDO,UKPGS,Male,Does not qualify,82.0,95.0
+PC2MH,UKPGS,Female,Does not qualify,84.0,94.0
+RGXS6,UKPGS,Female,Does not qualify,84.0,99.0
+UX5JT,UKPGS,Male,Does not qualify,86.0,96.0
+V7CKV,UKPGS,Male,Does not qualify,81.0,91.0
+XZH2Z,UKPGS,Female,Does not qualify,87.0,91.0
+YGFAP,UKPGS,Female,Does not qualify,83.0,98.0
+YPTLT,UKPGS,Male,Does not qualify,89.0,94.0
+YXBYX,UKPGS,Male,Does not qualify,79.0,89.0
+ZAH4F,UKPGS,Female,Does not qualify,87.0,93.0
+32A5K,UKPGS,Male,Does not qualify,81.0,94.0
+3S4PV,UKPGS,Female,Does not qualify,87.0,97.0
+48A1T,UKPGS,Female,Does not qualify,82.0,93.0
+8N6QZ,UKPGS,Female,Does not qualify,84.0,93.0
+B4VE7,UKPGS,Male,Does not qualify,82.0,93.0
+COAU1,UKPGS,Female,Does not qualify,81.0,93.0
+CPSG8,UKPGS,Male,Does not qualify,86.0,94.0
+DQYGC,UKPGS,Female,Does not qualify,83.0,90.0
+EUE94,UKPGS,Female,Does not qualify,85.0,88.0
+H2NHU,UKPGS,Female,Does not qualify,85.0,97.0
+H9GCW,UKPGS,Female,Does not qualify,86.0,93.0
+I4IR4,UKPGS,Male,Does not qualify,83.0,94.0
+INLHM,UKPGS,Female,Does not qualify,86.0,95.0
+JSXAG,UKPGS,Female,Does not qualify,81.0,94.0
+KFYSH,UKPGS,Female,Does not qualify,80.0,92.0
+LAFO1,UKPGS,Male,Does not qualify,84.0,92.0
+M1AZ2,UKPGS,Male,Does not qualify,83.0,93.0
+MDLIT,UKPGS,Male,Does not qualify,82.0,91.0
+NMN96,UKPGS,Female,Does not qualify,87.0,92.0
+S5EY9,UKPGS,Female,Does not qualify,86.0,93.0
+TWZWL,UKPGS,Female,Does not qualify,81.0,92.0
+VYVEK,UKPGS,Female,Does not qualify,84.0,94.0
+WJITF,UKPGS,Male,Does not qualify,86.0,96.0
+XOO4J,UKPGS,Male,Does not qualify,82.0,95.0
+ZG15E,UKPGS,Male,Does not qualify,85.0,91.0
+0QF6V,UKPGS,Female,Does not qualify,77.0,89.0
+6ZVZS,UKPGS,Female,Does not qualify,76.0,96.0
+7M97F,UKPGS,Male,Does not qualify,77.0,90.0
+9C145,UKPGS,Male,Does not qualify,74.0,95.0
+D6CTU,UKPGS,Female,Does not qualify,75.0,93.0
+FDVGN,UKPGS,Male,Does not qualify,81.0,89.0
+H08BV,UKPGS,Male,Does not qualify,75.0,92.0
+JYMFD,UKPGS,Male,Does not qualify,76.0,93.0
+MCBCN,UKPGS,Female,Does not qualify,73.0,93.0
+ME537,UKPGS,Female,Does not qualify,79.0,91.0
+MTJV5,UKPGS,Male,Does not qualify,79.0,92.0
+O9EES,UKPGS,Female,Does not qualify,68.0,88.0
+OA8E3,UKPGS,Female,Does not qualify,76.0,93.0
+PNXUP,UKPGS,Male,Does not qualify,79.0,93.0
+SNQT3,UKPGS,Male,Does not qualify,75.0,88.0
+SY0BY,UKPGS,Female,Does not qualify,72.0,91.0
+U38NB,UKPGS,Male,Does not qualify,76.0,90.0
+UA1VB,UKPGS,Male,Does not qualify,79.0,93.0
+VDJB4,UKPGS,Female,Does not qualify,75.0,90.0
+4KXHJ,UKPGS,Male,Does not qualify,74.0,86.0
+4USMS,UKPGS,Male,Does not qualify,76.0,95.0
+71V1M,UKPGS,Male,Does not qualify,72.0,88.0
+8023G,UKPGS,Male,Does not qualify,78.0,96.0
+9SSU5,UKPGS,Male,Does not qualify,74.0,95.0
+DT2DK,UKPGS,Male,Does not qualify,75.0,90.0
+DW27M,UKPGS,Female,Does not qualify,76.0,92.0
+F9AF4,UKPGS,Female,Does not qualify,75.0,90.0
+JLT9W,UKPGS,Male,Does not qualify,71.0,85.0
+KA6AR,UKPGS,Female,Does not qualify,78.0,89.0
+ML40U,UKPGS,Female,Does not qualify,75.0,90.0
+N6O4Q,UKPGS,Male,Does not qualify,75.0,85.0
+NDG8X,UKPGS,Female,Does not qualify,76.0,90.0
+PV4KT,UKPGS,Male,Does not qualify,81.0,85.0
+RJ6DM,UKPGS,Male,Does not qualify,74.0,91.0
+W6QBL,UKPGS,Female,Does not qualify,67.0,88.0
+WEKZ0,UKPGS,Male,Does not qualify,73.0,91.0
+WKT2V,UKPGS,Female,Does not qualify,75.0,93.0
+33Q7N,UKPGS,Female,Does not qualify,75.0,91.0
+3UFPK,UKPGS,Female,Does not qualify,70.0,84.0
+6IDYQ,UKPGS,Female,Does not qualify,74.0,90.0
+6SPGY,UKPGS,Female,Does not qualify,73.0,91.0
+82ZHK,UKPGS,Female,Does not qualify,71.0,92.0
+9SO36,UKPGS,Male,Does not qualify,70.0,86.0
+BLJ07,UKPGS,Male,Does not qualify,76.0,95.0
+CHAJB,UKPGS,Female,Does not qualify,74.0,90.0
+DXJFP,UKPGS,Male,Does not qualify,71.0,85.0
+EAKC5,UKPGS,Male,Does not qualify,73.0,92.0
+F51X9,UKPGS,Female,Does not qualify,71.0,90.0
+IGUFT,UKPGS,Female,Does not qualify,74.0,93.0
+JG0OS,UKPGS,Male,Does not qualify,71.0,89.0
+JHB0I,UKPGS,Female,Does not qualify,74.0,88.0
+LB4AC,UKPGS,Male,Does not qualify,73.0,92.0
+O77YR,UKPGS,Male,Does not qualify,72.0,82.0
+OA330,UKPGS,Male,Does not qualify,70.0,90.0
+QZX9P,UKPGS,Female,Does not qualify,69.0,90.0
+TBYDV,UKPGS,Female,Does not qualify,72.0,90.0
+TFEUO,UKPGS,Female,Does not qualify,75.0,91.0
+W2GFZ,UKPGS,Female,Does not qualify,72.0,86.0
+WQCRG,UKPGS,Male,Does not qualify,71.0,91.0
+X3GT7,UKPGS,Male,Does not qualify,72.0,96.0
+3BGGH,UKPGS,Female,Does not qualify,81.0,90.0
+3YWAD,UKPGS,Female,Does not qualify,83.0,88.0
+65F54,UKPGS,Male,Does not qualify,78.0,82.0
+6DY5A,UKPGS,Male,Does not qualify,82.0,87.0
+A85PD,UKPGS,Female,Does not qualify,77.0,88.0
+B5CG1,UKPGS,Male,Does not qualify,80.0,92.0
+G5CGC,UKPGS,Female,Does not qualify,75.0,86.0
+HQ67D,UKPGS,Female,Does not qualify,84.0,93.0
+I0A4E,UKPGS,Female,Does not qualify,80.0,95.0
+I3X3Z,UKPGS,Male,Does not qualify,78.0,89.0
+JWURS,UKPGS,Female,Does not qualify,77.0,90.0
+NFI2E,UKPGS,Female,Does not qualify,77.0,82.0
+O4GRR,UKPGS,Male,Does not qualify,79.0,87.0
+PSZFU,UKPGS,Female,Does not qualify,81.0,93.0
+QDBCB,UKPGS,Male,Does not qualify,82.0,89.0
+SVZZ0,UKPGS,Female,Does not qualify,77.0,88.0
+U25RO,UKPGS,Male,Does not qualify,79.0,89.0
+UGYBD,UKPGS,Male,Does not qualify,80.0,87.0
+UNN56,UKPGS,Male,Does not qualify,78.0,92.0
+XQA13,UKPGS,Male,Does not qualify,77.0,84.0
+YDXV0,UKPGS,Female,Does not qualify,78.0,89.0
+YSH7U,UKPGS,Female,Does not qualify,78.0,87.0
+0KUVX,UUUQX,Female,Does not qualify,62.0,75.0
+1BEFZ,UUUQX,Female,Does not qualify,55.0,69.0
+5C3GO,UUUQX,Female,Does not qualify,62.0,70.0
+7OLG6,UUUQX,Female,Qualifies for reduced/free lunch,56.0,67.0
+86HWL,UUUQX,Male,Does not qualify,59.0,70.0
+95R1X,UUUQX,Male,Does not qualify,60.0,72.0
+CWZPO,UUUQX,Male,Does not qualify,65.0,75.0
+MN04N,UUUQX,Male,Does not qualify,67.0,76.0
+MYVA0,UUUQX,Female,Does not qualify,59.0,72.0
+OCUFY,UUUQX,Female,Qualifies for reduced/free lunch,57.0,62.0
+QDWO8,UUUQX,Female,Does not qualify,60.0,72.0
+W2UP9,UUUQX,Male,Does not qualify,61.0,78.0
+X6H3Z,UUUQX,Male,Does not qualify,55.0,71.0
+XH5US,UUUQX,Male,Does not qualify,62.0,74.0
+Y3HMW,UUUQX,Female,Does not qualify,62.0,73.0
+Z2JKR,UUUQX,Male,Does not qualify,62.0,71.0
+236KA,UUUQX,Male,Does not qualify,68.0,82.0
+25NAF,UUUQX,Male,Qualifies for reduced/free lunch,64.0,82.0
+4ER6K,UUUQX,Male,Does not qualify,65.0,82.0
+5BAJD,UUUQX,Male,Does not qualify,69.0,81.0
+5CQKT,UUUQX,Female,Does not qualify,72.0,88.0
+5T3FK,UUUQX,Male,Does not qualify,63.0,81.0
+8SREJ,UUUQX,Female,Does not qualify,70.0,84.0
+IG2ZG,UUUQX,Male,Does not qualify,67.0,87.0
+P73C4,UUUQX,Male,Does not qualify,68.0,83.0
+PN7DI,UUUQX,Female,Does not qualify,78.0,87.0
+PWTOX,UUUQX,Female,Does not qualify,75.0,87.0
+RF5NL,UUUQX,Female,Does not qualify,72.0,81.0
+S3D1U,UUUQX,Male,Does not qualify,68.0,86.0
+T0NB9,UUUQX,Male,Does not qualify,67.0,79.0
+U19G8,UUUQX,Male,Does not qualify,69.0,89.0
+UWEZN,UUUQX,Female,Does not qualify,67.0,85.0
+WIX9F,UUUQX,Female,Does not qualify,70.0,85.0
+0U7J2,UUUQX,Male,Does not qualify,72.0,90.0
+13G8V,UUUQX,Female,Does not qualify,72.0,87.0
+1FKL9,UUUQX,Female,Does not qualify,69.0,87.0
+34TV1,UUUQX,Male,Does not qualify,73.0,89.0
+4DXL9,UUUQX,Female,Does not qualify,72.0,85.0
+4EVEG,UUUQX,Male,Does not qualify,70.0,91.0
+8MR97,UUUQX,Male,Does not qualify,77.0,85.0
+9J2Z8,UUUQX,Female,Does not qualify,71.0,81.0
+BIFAM,UUUQX,Female,Does not qualify,71.0,90.0
+HY397,UUUQX,Male,Does not qualify,72.0,89.0
+P9VM7,UUUQX,Male,Does not qualify,71.0,88.0
+PBMNM,UUUQX,Female,Does not qualify,75.0,86.0
+R4LBA,UUUQX,Female,Does not qualify,71.0,83.0
+RMUPP,UUUQX,Female,Does not qualify,72.0,84.0
+TAFK3,UUUQX,Female,Does not qualify,72.0,85.0
+XWXL4,UUUQX,Female,Does not qualify,67.0,85.0
+038FI,UUUQX,Male,Does not qualify,67.0,80.0
+05KAX,UUUQX,Female,Does not qualify,72.0,79.0
+20UT3,UUUQX,Female,Does not qualify,71.0,76.0
+4QD4Z,UUUQX,Female,Does not qualify,72.0,78.0
+5QKZ9,UUUQX,Male,Qualifies for reduced/free lunch,66.0,75.0
+7L0U6,UUUQX,Male,Does not qualify,68.0,79.0
+8RSUD,UUUQX,Female,Does not qualify,65.0,78.0
+AYAZF,UUUQX,Male,Does not qualify,70.0,79.0
+C3584,UUUQX,Female,Does not qualify,71.0,82.0
+DPUY4,UUUQX,Male,Does not qualify,64.0,77.0
+HYYYA,UUUQX,Male,Does not qualify,70.0,78.0
+PRZUQ,UUUQX,Male,Does not qualify,71.0,80.0
+QM24G,UUUQX,Male,Does not qualify,70.0,79.0
+S98ME,UUUQX,Female,Does not qualify,68.0,73.0
+SEBPC,UUUQX,Female,Does not qualify,69.0,71.0
+SMJ14,UUUQX,Male,Does not qualify,72.0,79.0
+T570M,UUUQX,Female,Does not qualify,68.0,74.0
+WB8AL,UUUQX,Male,Does not qualify,66.0,77.0
+Y6B5R,UUUQX,Female,Does not qualify,69.0,75.0
+Z2G9R,UUUQX,Female,Qualifies for reduced/free lunch,61.0,73.0
+07N4F,UUUQX,Male,Does not qualify,68.0,72.0
+0AIOR,UUUQX,Male,Does not qualify,70.0,79.0
+37W3X,UUUQX,Male,Does not qualify,67.0,76.0
+3E36E,UUUQX,Female,Does not qualify,66.0,83.0
+3SWL5,UUUQX,Female,Does not qualify,66.0,80.0
+8ECN8,UUUQX,Male,Does not qualify,70.0,75.0
+ER2T8,UUUQX,Female,Does not qualify,64.0,80.0
+GTHLL,UUUQX,Male,Does not qualify,65.0,78.0
+IT97C,UUUQX,Male,Does not qualify,67.0,78.0
+IZDY7,UUUQX,Male,Does not qualify,63.0,76.0
+JPYUB,UUUQX,Female,Does not qualify,73.0,78.0
+NTU46,UUUQX,Female,Does not qualify,67.0,73.0
+Q7ZIU,UUUQX,Female,Does not qualify,69.0,75.0
+YTS8T,UUUQX,Male,Does not qualify,64.0,79.0
+Z4549,UUUQX,Male,Does not qualify,62.0,73.0
+18VK7,VHDHF,Female,Qualifies for reduced/free lunch,59.0,72.0
+80E09,VHDHF,Female,Qualifies for reduced/free lunch,52.0,68.0
+8HJY3,VHDHF,Female,Qualifies for reduced/free lunch,55.0,68.0
+AN3SG,VHDHF,Male,Qualifies for reduced/free lunch,53.0,69.0
+BB5YM,VHDHF,Female,Qualifies for reduced/free lunch,51.0,65.0
+BEC7H,VHDHF,Female,Qualifies for reduced/free lunch,52.0,73.0
+GCN2Y,VHDHF,Male,Qualifies for reduced/free lunch,59.0,71.0
+GF5N4,VHDHF,Female,Qualifies for reduced/free lunch,55.0,75.0
+GZYH3,VHDHF,Female,Does not qualify,59.0,76.0
+HA8N7,VHDHF,Female,Qualifies for reduced/free lunch,54.0,72.0
+I2MTP,VHDHF,Female,Does not qualify,60.0,73.0
+IKVTW,VHDHF,Female,Qualifies for reduced/free lunch,56.0,73.0
+NOHNV,VHDHF,Male,Qualifies for reduced/free lunch,49.0,70.0
+O8UE1,VHDHF,Male,Qualifies for reduced/free lunch,54.0,67.0
+PA8XJ,VHDHF,Female,Qualifies for reduced/free lunch,53.0,72.0
+QKSBS,VHDHF,Male,Qualifies for reduced/free lunch,57.0,73.0
+RY6W4,VHDHF,Male,Qualifies for reduced/free lunch,56.0,74.0
+THJJ1,VHDHF,Male,Qualifies for reduced/free lunch,54.0,72.0
+TQFGY,VHDHF,Female,Qualifies for reduced/free lunch,57.0,73.0
+TRBDH,VHDHF,Female,Qualifies for reduced/free lunch,55.0,72.0
+16EN7,VHDHF,Female,Qualifies for reduced/free lunch,47.0,60.0
+42NEO,VHDHF,Male,Qualifies for reduced/free lunch,51.0,58.0
+583ZR,VHDHF,Female,Qualifies for reduced/free lunch,53.0,56.0
+8QPPC,VHDHF,Female,Qualifies for reduced/free lunch,46.0,56.0
+9UO4I,VHDHF,Female,Does not qualify,55.0,65.0
+A8F0T,VHDHF,Male,Qualifies for reduced/free lunch,47.0,58.0
+DSKAZ,VHDHF,Male,Qualifies for reduced/free lunch,53.0,60.0
+H7BTQ,VHDHF,Male,Qualifies for reduced/free lunch,50.0,60.0
+I0TKZ,VHDHF,Male,Qualifies for reduced/free lunch,44.0,52.0
+I8P7Y,VHDHF,Male,Does not qualify,46.0,58.0
+J8DNL,VHDHF,Male,Qualifies for reduced/free lunch,49.0,62.0
+JDBQH,VHDHF,Male,Qualifies for reduced/free lunch,45.0,54.0
+LNO77,VHDHF,Male,Qualifies for reduced/free lunch,47.0,56.0
+PKXMF,VHDHF,Male,Qualifies for reduced/free lunch,53.0,58.0
+W4UNG,VHDHF,Female,Qualifies for reduced/free lunch,45.0,57.0
+W77MX,VHDHF,Male,Does not qualify,51.0,63.0
+147UW,VHDHF,Male,Qualifies for reduced/free lunch,59.0,70.0
+6CQH6,VHDHF,Female,Qualifies for reduced/free lunch,56.0,70.0
+97YOT,VHDHF,Female,Qualifies for reduced/free lunch,58.0,77.0
+99UUZ,VHDHF,Female,Qualifies for reduced/free lunch,54.0,74.0
+CZYTB,VHDHF,Male,Qualifies for reduced/free lunch,51.0,67.0
+DLUWQ,VHDHF,Male,Qualifies for reduced/free lunch,53.0,66.0
+K0GYZ,VHDHF,Male,Qualifies for reduced/free lunch,50.0,69.0
+M0EE2,VHDHF,Male,Qualifies for reduced/free lunch,54.0,70.0
+MNVG5,VHDHF,Female,Qualifies for reduced/free lunch,55.0,73.0
+MYZZ8,VHDHF,Male,Does not qualify,55.0,72.0
+O2CP6,VHDHF,Male,Qualifies for reduced/free lunch,51.0,69.0
+OA4KH,VHDHF,Male,Qualifies for reduced/free lunch,56.0,71.0
+UQEHO,VHDHF,Female,Qualifies for reduced/free lunch,53.0,68.0
+UV4VL,VHDHF,Male,Qualifies for reduced/free lunch,53.0,68.0
+X36VE,VHDHF,Female,Qualifies for reduced/free lunch,46.0,64.0
+251LB,VKWQH,Female,Does not qualify,43.0,50.0
+4Q94R,VKWQH,Female,Does not qualify,44.0,56.0
+4RLVS,VKWQH,Male,Does not qualify,43.0,55.0
+CWETG,VKWQH,Male,Does not qualify,38.0,51.0
+DJK1N,VKWQH,Female,Does not qualify,47.0,51.0
+DWGQI,VKWQH,Female,Does not qualify,45.0,56.0
+GUQVH,VKWQH,Male,Does not qualify,45.0,53.0
+GXAG3,VKWQH,Female,Does not qualify,50.0,54.0
+HQTXY,VKWQH,Male,Does not qualify,39.0,51.0
+JK8YI,VKWQH,Female,Does not qualify,44.0,55.0
+KJDK7,VKWQH,Female,Qualifies for reduced/free lunch,36.0,48.0
+MJ0LU,VKWQH,Female,Does not qualify,43.0,58.0
+MZBQW,VKWQH,Female,Does not qualify,48.0,63.0
+S6ZUI,VKWQH,Male,Does not qualify,43.0,56.0
+SI1WU,VKWQH,Female,Does not qualify,46.0,58.0
+UGL3V,VKWQH,Male,Does not qualify,42.0,55.0
+V0B10,VKWQH,Female,Does not qualify,40.0,51.0
+ZY9X3,VKWQH,Female,Does not qualify,47.0,58.0
+094FR,VKWQH,Female,Qualifies for reduced/free lunch,60.0,69.0
+3BJMM,VKWQH,Female,Qualifies for reduced/free lunch,63.0,73.0
+71EC6,VKWQH,Male,Does not qualify,58.0,74.0
+74CHH,VKWQH,Female,Does not qualify,65.0,78.0
+7XG5T,VKWQH,Male,Does not qualify,63.0,76.0
+BJ4Z5,VKWQH,Male,Does not qualify,64.0,73.0
+CPQ7T,VKWQH,Male,Does not qualify,65.0,79.0
+FTDEU,VKWQH,Male,Qualifies for reduced/free lunch,63.0,71.0
+FTUTG,VKWQH,Male,Does not qualify,60.0,73.0
+H2AGT,VKWQH,Male,Qualifies for reduced/free lunch,59.0,73.0
+H4ECV,VKWQH,Male,Does not qualify,65.0,77.0
+HA68O,VKWQH,Female,Does not qualify,67.0,77.0
+OD271,VKWQH,Male,Does not qualify,66.0,78.0
+Q6SBB,VKWQH,Female,Does not qualify,59.0,71.0
+QCQET,VKWQH,Female,Does not qualify,65.0,75.0
+TQDZV,VKWQH,Male,Does not qualify,67.0,74.0
+UQYQ1,VKWQH,Female,Does not qualify,65.0,76.0
+VSCUG,VKWQH,Female,Does not qualify,63.0,76.0
+XL3MD,VKWQH,Male,Does not qualify,69.0,77.0
+YJLKC,VKWQH,Female,Does not qualify,65.0,79.0
+ZGB9Z,VKWQH,Male,Does not qualify,63.0,75.0
+0U8FN,VKWQH,Male,Does not qualify,68.0,79.0
+0VTPD,VKWQH,Female,Does not qualify,61.0,72.0
+18OHA,VKWQH,Female,Does not qualify,61.0,74.0
+31OXZ,VKWQH,Female,Does not qualify,60.0,79.0
+35KZZ,VKWQH,Female,Does not qualify,62.0,75.0
+7K0K0,VKWQH,Male,Does not qualify,63.0,80.0
+8LFBJ,VKWQH,Female,Qualifies for reduced/free lunch,60.0,74.0
+D1I4F,VKWQH,Male,Does not qualify,63.0,78.0
+D2SZO,VKWQH,Female,Does not qualify,67.0,82.0
+DMCWG,VKWQH,Male,Does not qualify,55.0,73.0
+E40SE,VKWQH,Female,Does not qualify,58.0,76.0
+ICZUM,VKWQH,Female,Does not qualify,61.0,80.0
+KM4CH,VKWQH,Male,Does not qualify,53.0,79.0
+L9I8P,VKWQH,Male,Does not qualify,58.0,75.0
+NC4UO,VKWQH,Male,Does not qualify,66.0,80.0
+NTWOX,VKWQH,Male,Does not qualify,61.0,73.0
+SHWYN,VKWQH,Male,Does not qualify,62.0,77.0
+TRU03,VKWQH,Female,Does not qualify,64.0,77.0
+ZKC14,VKWQH,Male,Does not qualify,56.0,73.0
+1E2N1,VKWQH,Male,Does not qualify,55.0,62.0
+39RRR,VKWQH,Male,Does not qualify,48.0,61.0
+9FZ9I,VKWQH,Male,Does not qualify,48.0,62.0
+9ZYVG,VKWQH,Female,Does not qualify,48.0,64.0
+BC9MW,VKWQH,Male,Qualifies for reduced/free lunch,48.0,51.0
+CE3B7,VKWQH,Male,Does not qualify,49.0,56.0
+EEDA4,VKWQH,Male,Does not qualify,49.0,58.0
+EMI9G,VKWQH,Male,Does not qualify,53.0,61.0
+MRUD1,VKWQH,Male,Does not qualify,50.0,60.0
+OOUK4,VKWQH,Female,Does not qualify,48.0,60.0
+P7PFY,VKWQH,Female,Does not qualify,49.0,60.0
+PW0KX,VKWQH,Female,Does not qualify,47.0,57.0
+SMXWL,VKWQH,Female,Does not qualify,46.0,59.0
+SP09I,VKWQH,Female,Qualifies for reduced/free lunch,43.0,56.0
+T9YB9,VKWQH,Female,Does not qualify,54.0,62.0
+U8IBL,VKWQH,Female,Does not qualify,50.0,64.0
+UP1PU,VKWQH,Female,Does not qualify,52.0,58.0
+XALAZ,VKWQH,Male,Does not qualify,50.0,59.0
+Y8E09,VKWQH,Male,Does not qualify,51.0,64.0
+YWJV1,VKWQH,Male,Does not qualify,50.0,55.0
+04GS3,VKWQH,Male,Does not qualify,40.0,55.0
+04TG9,VKWQH,Male,Qualifies for reduced/free lunch,43.0,55.0
+3NOO6,VKWQH,Female,Does not qualify,42.0,58.0
+3X09W,VKWQH,Female,Does not qualify,43.0,58.0
+43TA7,VKWQH,Male,Does not qualify,42.0,60.0
+7Y0SC,VKWQH,Male,Does not qualify,43.0,61.0
+895T7,VKWQH,Male,Does not qualify,45.0,60.0
+BT2IT,VKWQH,Female,Does not qualify,43.0,59.0
+C32WQ,VKWQH,Male,Does not qualify,43.0,56.0
+HVQDV,VKWQH,Male,Qualifies for reduced/free lunch,41.0,56.0
+JP1PK,VKWQH,Female,Does not qualify,43.0,59.0
+K93GE,VKWQH,Male,Does not qualify,44.0,57.0
+KFQEB,VKWQH,Male,Does not qualify,43.0,63.0
+KPTGF,VKWQH,Male,Does not qualify,44.0,59.0
+L5CN8,VKWQH,Female,Does not qualify,41.0,57.0
+NNWQ5,VKWQH,Male,Does not qualify,51.0,61.0
+QZWJY,VKWQH,Female,Does not qualify,39.0,58.0
+RGPSQ,VKWQH,Female,Does not qualify,44.0,60.0
+XCWK3,VKWQH,Male,Does not qualify,38.0,52.0
+YEYXG,VKWQH,Female,Does not qualify,42.0,61.0
+YGX7N,VKWQH,Female,Does not qualify,42.0,62.0
+YZJEF,VKWQH,Female,Does not qualify,46.0,57.0
+15IAX,VVTVA,Female,Qualifies for reduced/free lunch,39.0,49.0
+174XC,VVTVA,Female,Qualifies for reduced/free lunch,48.0,54.0
+40ENN,VVTVA,Male,Qualifies for reduced/free lunch,40.0,47.0
+81JIV,VVTVA,Female,Qualifies for reduced/free lunch,46.0,55.0
+87JFN,VVTVA,Female,Qualifies for reduced/free lunch,39.0,44.0
+8KIIZ,VVTVA,Male,Qualifies for reduced/free lunch,39.0,51.0
+BZG6L,VVTVA,Male,Qualifies for reduced/free lunch,38.0,51.0
+CBSY2,VVTVA,Female,Qualifies for reduced/free lunch,43.0,54.0
+FQUMU,VVTVA,Female,Qualifies for reduced/free lunch,38.0,52.0
+H2WZ7,VVTVA,Female,Qualifies for reduced/free lunch,38.0,49.0
+JGQ0Z,VVTVA,Female,Qualifies for reduced/free lunch,42.0,48.0
+KBJ1D,VVTVA,Male,Qualifies for reduced/free lunch,43.0,53.0
+L1BB3,VVTVA,Female,Qualifies for reduced/free lunch,45.0,48.0
+MIGFL,VVTVA,Female,Qualifies for reduced/free lunch,41.0,48.0
+MP34B,VVTVA,Female,Qualifies for reduced/free lunch,40.0,50.0
+NW57G,VVTVA,Female,Qualifies for reduced/free lunch,43.0,53.0
+P4T8T,VVTVA,Female,Qualifies for reduced/free lunch,43.0,51.0
+PVNY9,VVTVA,Male,Qualifies for reduced/free lunch,42.0,49.0
+QRZUK,VVTVA,Male,Qualifies for reduced/free lunch,41.0,51.0
+RC59J,VVTVA,Female,Qualifies for reduced/free lunch,57.0,62.0
+TIVFF,VVTVA,Female,Qualifies for reduced/free lunch,40.0,49.0
+TOJEJ,VVTVA,Male,Qualifies for reduced/free lunch,39.0,50.0
+TRHW9,VVTVA,Female,Qualifies for reduced/free lunch,40.0,53.0
+U3U5H,VVTVA,Male,Qualifies for reduced/free lunch,43.0,46.0
+VQB53,VVTVA,Female,Qualifies for reduced/free lunch,38.0,50.0
+VSJ34,VVTVA,Male,Qualifies for reduced/free lunch,46.0,54.0
+VVZRY,VVTVA,Female,Qualifies for reduced/free lunch,40.0,47.0
+W5895,VVTVA,Female,Qualifies for reduced/free lunch,35.0,46.0
+YED8S,VVTVA,Female,Qualifies for reduced/free lunch,40.0,53.0
+0CSKF,VVTVA,Male,Qualifies for reduced/free lunch,31.0,49.0
+0JIY9,VVTVA,Female,Qualifies for reduced/free lunch,30.0,49.0
+1LC61,VVTVA,Female,Qualifies for reduced/free lunch,34.0,49.0
+2MA9Q,VVTVA,Male,Qualifies for reduced/free lunch,34.0,51.0
+4Q5SZ,VVTVA,Male,Qualifies for reduced/free lunch,32.0,48.0
+4YT5N,VVTVA,Male,Qualifies for reduced/free lunch,30.0,43.0
+50ZC7,VVTVA,Male,Qualifies for reduced/free lunch,31.0,45.0
+5N7ID,VVTVA,Male,Qualifies for reduced/free lunch,28.0,46.0
+6KU2U,VVTVA,Female,Qualifies for reduced/free lunch,30.0,46.0
+70JDC,VVTVA,Male,Qualifies for reduced/free lunch,33.0,45.0
+9NW7W,VVTVA,Male,Qualifies for reduced/free lunch,34.0,50.0
+A84RV,VVTVA,Female,Qualifies for reduced/free lunch,22.0,47.0
+C1MCZ,VVTVA,Male,Qualifies for reduced/free lunch,31.0,47.0
+CB2FT,VVTVA,Male,Qualifies for reduced/free lunch,35.0,54.0
+G8OOV,VVTVA,Male,Qualifies for reduced/free lunch,30.0,43.0
+H1U8Q,VVTVA,Female,Qualifies for reduced/free lunch,31.0,49.0
+H9OAN,VVTVA,Female,Qualifies for reduced/free lunch,29.0,48.0
+HY8JN,VVTVA,Male,Qualifies for reduced/free lunch,29.0,39.0
+J4PGQ,VVTVA,Female,Qualifies for reduced/free lunch,29.0,47.0
+JDLDM,VVTVA,Female,Qualifies for reduced/free lunch,30.0,47.0
+K5OC0,VVTVA,Female,Qualifies for reduced/free lunch,38.0,52.0
+LBM49,VVTVA,Female,Qualifies for reduced/free lunch,35.0,49.0
+NU14D,VVTVA,Female,Qualifies for reduced/free lunch,31.0,48.0
+QRX9B,VVTVA,Male,Qualifies for reduced/free lunch,32.0,45.0
+S7D4C,VVTVA,Male,Qualifies for reduced/free lunch,35.0,53.0
+T03G6,VVTVA,Male,Qualifies for reduced/free lunch,35.0,52.0
+U1ACT,VVTVA,Female,Qualifies for reduced/free lunch,32.0,48.0
+VCB7U,VVTVA,Female,Qualifies for reduced/free lunch,30.0,49.0
+XK2EB,VVTVA,Female,Qualifies for reduced/free lunch,34.0,46.0
+ZZGRB,VVTVA,Female,Qualifies for reduced/free lunch,32.0,47.0
+0G8PS,VVTVA,Female,Qualifies for reduced/free lunch,41.0,51.0
+0QJP2,VVTVA,Female,Qualifies for reduced/free lunch,35.0,53.0
+2J7T0,VVTVA,Female,Qualifies for reduced/free lunch,37.0,49.0
+3M3RV,VVTVA,Female,Qualifies for reduced/free lunch,38.0,52.0
+4GUB6,VVTVA,Male,Qualifies for reduced/free lunch,36.0,45.0
+4OIRE,VVTVA,Male,Qualifies for reduced/free lunch,38.0,48.0
+59212,VVTVA,Male,Qualifies for reduced/free lunch,40.0,48.0
+925X9,VVTVA,Male,Qualifies for reduced/free lunch,42.0,54.0
+G5H8L,VVTVA,Female,Qualifies for reduced/free lunch,39.0,54.0
+GPML4,VVTVA,Male,Qualifies for reduced/free lunch,41.0,45.0
+K4MPY,VVTVA,Male,Qualifies for reduced/free lunch,40.0,49.0
+N2XBL,VVTVA,Male,Qualifies for reduced/free lunch,37.0,47.0
+N3AUM,VVTVA,Male,Qualifies for reduced/free lunch,37.0,51.0
+NANUJ,VVTVA,Female,Qualifies for reduced/free lunch,38.0,51.0
+NGT5E,VVTVA,Male,Qualifies for reduced/free lunch,42.0,48.0
+P27OQ,VVTVA,Female,Qualifies for reduced/free lunch,36.0,50.0
+PCXJH,VVTVA,Male,Qualifies for reduced/free lunch,40.0,49.0
+R79FQ,VVTVA,Female,Qualifies for reduced/free lunch,40.0,50.0
+S9W29,VVTVA,Female,Qualifies for reduced/free lunch,40.0,50.0
+SSNCF,VVTVA,Female,Qualifies for reduced/free lunch,41.0,54.0
+TJBLQ,VVTVA,Female,Qualifies for reduced/free lunch,40.0,49.0
+XBNC5,VVTVA,Female,Qualifies for reduced/free lunch,41.0,49.0
+ZBEKA,VVTVA,Male,Qualifies for reduced/free lunch,40.0,47.0
+ZO5AZ,VVTVA,Male,Qualifies for reduced/free lunch,36.0,50.0
+ZSJWH,VVTVA,Female,Does not qualify,41.0,62.0
+0797N,VVTVA,Female,Qualifies for reduced/free lunch,34.0,47.0
+0DG2C,VVTVA,Male,Qualifies for reduced/free lunch,30.0,48.0
+1DAZA,VVTVA,Female,Does not qualify,35.0,49.0
+2PYGZ,VVTVA,Male,Qualifies for reduced/free lunch,37.0,50.0
+4O9S7,VVTVA,Female,Qualifies for reduced/free lunch,30.0,47.0
+4SH2S,VVTVA,Male,Qualifies for reduced/free lunch,29.0,48.0
+55LK7,VVTVA,Female,Qualifies for reduced/free lunch,36.0,52.0
+8B9F4,VVTVA,Female,Qualifies for reduced/free lunch,32.0,50.0
+CJSVH,VVTVA,Female,Qualifies for reduced/free lunch,28.0,42.0
+D1CF9,VVTVA,Male,Qualifies for reduced/free lunch,30.0,47.0
+DC2NZ,VVTVA,Female,Qualifies for reduced/free lunch,33.0,47.0
+G1D76,VVTVA,Male,Qualifies for reduced/free lunch,33.0,45.0
+GZ4RT,VVTVA,Female,Qualifies for reduced/free lunch,35.0,52.0
+HRW4T,VVTVA,Male,Qualifies for reduced/free lunch,34.0,53.0
+IKNTB,VVTVA,Male,Qualifies for reduced/free lunch,33.0,47.0
+IWYXK,VVTVA,Male,Qualifies for reduced/free lunch,32.0,52.0
+L9OB0,VVTVA,Female,Qualifies for reduced/free lunch,35.0,48.0
+M0WG3,VVTVA,Male,Qualifies for reduced/free lunch,34.0,46.0
+M4R5B,VVTVA,Male,Qualifies for reduced/free lunch,33.0,48.0
+PJHRU,VVTVA,Female,Qualifies for reduced/free lunch,30.0,48.0
+QIHFX,VVTVA,Male,Qualifies for reduced/free lunch,32.0,52.0
+QIOYE,VVTVA,Male,Qualifies for reduced/free lunch,28.0,45.0
+SEB4N,VVTVA,Male,Qualifies for reduced/free lunch,32.0,44.0
+SZR80,VVTVA,Male,Qualifies for reduced/free lunch,31.0,51.0
+T0WEF,VVTVA,Female,Qualifies for reduced/free lunch,34.0,49.0
+UIHRK,VVTVA,Female,Qualifies for reduced/free lunch,29.0,44.0
+WZ6C2,VVTVA,Female,Qualifies for reduced/free lunch,34.0,49.0
+Y5PIH,VVTVA,Male,Qualifies for reduced/free lunch,33.0,52.0
+YU2SU,VVTVA,Female,Qualifies for reduced/free lunch,33.0,49.0
+YXR0L,VVTVA,Female,Qualifies for reduced/free lunch,37.0,52.0
+16XHE,ZMNYA,Female,Does not qualify,66.0,86.0
+5A1B5,ZMNYA,Female,Does not qualify,73.0,83.0
+5SPC0,ZMNYA,Female,Does not qualify,65.0,74.0
+A6LGX,ZMNYA,Male,Does not qualify,62.0,81.0
+B4HL9,ZMNYA,Male,Does not qualify,66.0,85.0
+BG529,ZMNYA,Female,Does not qualify,66.0,81.0
+BN7PS,ZMNYA,Female,Does not qualify,70.0,82.0
+C3HZR,ZMNYA,Female,Does not qualify,69.0,82.0
+DP3H5,ZMNYA,Male,Does not qualify,68.0,80.0
+HTRAZ,ZMNYA,Male,Does not qualify,62.0,82.0
+I55J5,ZMNYA,Male,Does not qualify,60.0,74.0
+M9WKI,ZMNYA,Female,Does not qualify,66.0,91.0
+MESYT,ZMNYA,Male,Does not qualify,65.0,78.0
+PKBZJ,ZMNYA,Female,Does not qualify,67.0,81.0
+RB07N,ZMNYA,Male,Does not qualify,66.0,80.0
+S0FNE,ZMNYA,Female,Qualifies for reduced/free lunch,61.0,82.0
+S5K17,ZMNYA,Female,Does not qualify,67.0,78.0
+THYVQ,ZMNYA,Male,Does not qualify,66.0,83.0
+TNDD2,ZMNYA,Male,Qualifies for reduced/free lunch,65.0,81.0
+ULC89,ZMNYA,Male,Does not qualify,61.0,80.0
+ULX1M,ZMNYA,Male,Does not qualify,66.0,80.0
+VNYVB,ZMNYA,Female,Does not qualify,62.0,79.0
+VYPIZ,ZMNYA,Male,Does not qualify,64.0,77.0
+ZX8TB,ZMNYA,Male,Does not qualify,70.0,83.0
+0QDDH,ZMNYA,Male,Does not qualify,63.0,75.0
+0ZQYJ,ZMNYA,Male,Does not qualify,65.0,76.0
+1ZWVL,ZMNYA,Male,Qualifies for reduced/free lunch,58.0,68.0
+3DTQB,ZMNYA,Male,Does not qualify,63.0,78.0
+46P8Y,ZMNYA,Female,Does not qualify,65.0,72.0
+4KPNR,ZMNYA,Female,Does not qualify,74.0,72.0
+4R4Z0,ZMNYA,Female,Does not qualify,70.0,81.0
+4YJOE,ZMNYA,Female,Does not qualify,71.0,78.0
+7BEF7,ZMNYA,Male,Qualifies for reduced/free lunch,61.0,66.0
+EXMME,ZMNYA,Male,Does not qualify,68.0,73.0
+FHSAV,ZMNYA,Male,Does not qualify,62.0,68.0
+H4GR3,ZMNYA,Male,Qualifies for reduced/free lunch,56.0,69.0
+M7JDV,ZMNYA,Female,Does not qualify,66.0,74.0
+O8XZF,ZMNYA,Female,Does not qualify,65.0,69.0
+OIM1Z,ZMNYA,Female,Does not qualify,66.0,77.0
+OQQRA,ZMNYA,Male,Does not qualify,63.0,77.0
+PU6GL,ZMNYA,Female,Does not qualify,66.0,77.0
+R63EU,ZMNYA,Male,Does not qualify,71.0,80.0
+RXDYK,ZMNYA,Female,Qualifies for reduced/free lunch,64.0,69.0
+T7W1C,ZMNYA,Male,Qualifies for reduced/free lunch,59.0,71.0
+VHOWB,ZMNYA,Female,Does not qualify,67.0,70.0
+W9Z34,ZMNYA,Male,Does not qualify,63.0,76.0
+3IMPL,ZMNYA,Female,Does not qualify,79.0,94.0
+4QLN0,ZMNYA,Male,Does not qualify,81.0,90.0
+4RLML,ZMNYA,Male,Does not qualify,75.0,94.0
+50XI0,ZMNYA,Female,Does not qualify,77.0,89.0
+AGNIN,ZMNYA,Male,Does not qualify,68.0,87.0
+AYQBQ,ZMNYA,Male,Does not qualify,73.0,91.0
+B15UA,ZMNYA,Male,Does not qualify,69.0,89.0
+B3Z3I,ZMNYA,Female,Does not qualify,75.0,94.0
+C6ESF,ZMNYA,Male,Does not qualify,69.0,85.0
+GRE0J,ZMNYA,Female,Does not qualify,72.0,85.0
+H0FE9,ZMNYA,Female,Does not qualify,79.0,93.0
+HK7UN,ZMNYA,Male,Does not qualify,74.0,94.0
+JZJZ5,ZMNYA,Male,Does not qualify,76.0,90.0
+M8LLN,ZMNYA,Female,Does not qualify,73.0,94.0
+MKQ5V,ZMNYA,Female,Does not qualify,74.0,87.0
+MLDXH,ZMNYA,Female,Does not qualify,79.0,94.0
+NM0PL,ZMNYA,Female,Qualifies for reduced/free lunch,74.0,92.0
+NRHVW,ZMNYA,Female,Does not qualify,72.0,88.0
+NZ8Y5,ZMNYA,Male,Does not qualify,74.0,84.0
+O4C5C,ZMNYA,Male,Does not qualify,69.0,86.0
+QEVVU,ZMNYA,Male,Does not qualify,74.0,90.0
+WV4F0,ZMNYA,Male,Does not qualify,70.0,87.0
+ZT5SN,ZMNYA,Male,Does not qualify,76.0,95.0
+14BAR,ZOWMK,Male,Qualifies for reduced/free lunch,45.0,60.0
+3MRKS,ZOWMK,Female,Qualifies for reduced/free lunch,49.0,58.0
+5WRPI,ZOWMK,Female,Qualifies for reduced/free lunch,53.0,56.0
+5YI2B,ZOWMK,Female,Qualifies for reduced/free lunch,47.0,55.0
+6J0JA,ZOWMK,Female,Qualifies for reduced/free lunch,49.0,59.0
+98TI9,ZOWMK,Male,Qualifies for reduced/free lunch,49.0,59.0
+99HQT,ZOWMK,Male,Qualifies for reduced/free lunch,41.0,53.0
+AOI1Q,ZOWMK,Female,Qualifies for reduced/free lunch,54.0,63.0
+BR251,ZOWMK,Female,Qualifies for reduced/free lunch,52.0,60.0
+CMBNG,ZOWMK,Female,Qualifies for reduced/free lunch,49.0,59.0
+DAAHG,ZOWMK,Male,Qualifies for reduced/free lunch,46.0,58.0
+DUWJP,ZOWMK,Female,Qualifies for reduced/free lunch,48.0,59.0
+H6YJI,ZOWMK,Female,Qualifies for reduced/free lunch,46.0,57.0
+H8BK5,ZOWMK,Male,Qualifies for reduced/free lunch,43.0,55.0
+HSDFE,ZOWMK,Male,Qualifies for reduced/free lunch,45.0,59.0
+KEX5T,ZOWMK,Female,Qualifies for reduced/free lunch,52.0,62.0
+LAO5O,ZOWMK,Male,Qualifies for reduced/free lunch,48.0,59.0
+LNU0R,ZOWMK,Female,Qualifies for reduced/free lunch,53.0,63.0
+N3QE5,ZOWMK,Male,Qualifies for reduced/free lunch,46.0,56.0
+N87VR,ZOWMK,Female,Qualifies for reduced/free lunch,54.0,61.0
+QJUR1,ZOWMK,Female,Qualifies for reduced/free lunch,47.0,61.0
+RYOCW,ZOWMK,Male,Qualifies for reduced/free lunch,49.0,57.0
+S4YGT,ZOWMK,Female,Qualifies for reduced/free lunch,50.0,62.0
+TDY78,ZOWMK,Male,Qualifies for reduced/free lunch,46.0,54.0
+TRR2F,ZOWMK,Female,Does not qualify,54.0,60.0
+UNO2K,ZOWMK,Male,Qualifies for reduced/free lunch,46.0,55.0
+Z38SS,ZOWMK,Male,Does not qualify,52.0,62.0
+0VPKP,ZOWMK,Female,Qualifies for reduced/free lunch,32.0,55.0
+0WLKR,ZOWMK,Male,Qualifies for reduced/free lunch,25.0,53.0
+0XMEO,ZOWMK,Female,Qualifies for reduced/free lunch,33.0,54.0
+2E8OY,ZOWMK,Female,Does not qualify,44.0,56.0
+4SLJH,ZOWMK,Male,Qualifies for reduced/free lunch,34.0,54.0
+59TVE,ZOWMK,Female,Qualifies for reduced/free lunch,38.0,53.0
+7LUSQ,ZOWMK,Male,Qualifies for reduced/free lunch,34.0,50.0
+86NLD,ZOWMK,Female,Qualifies for reduced/free lunch,39.0,54.0
+ARY9N,ZOWMK,Female,Qualifies for reduced/free lunch,41.0,55.0
+C1PHS,ZOWMK,Female,Qualifies for reduced/free lunch,36.0,52.0
+CHF6W,ZOWMK,Male,Qualifies for reduced/free lunch,38.0,53.0
+CUT9U,ZOWMK,Male,Qualifies for reduced/free lunch,38.0,52.0
+FDPKM,ZOWMK,Male,Qualifies for reduced/free lunch,37.0,52.0
+FE2K4,ZOWMK,Female,Qualifies for reduced/free lunch,35.0,52.0
+G0LQX,ZOWMK,Male,Qualifies for reduced/free lunch,30.0,48.0
+GI9G6,ZOWMK,Female,Qualifies for reduced/free lunch,38.0,53.0
+GRQ2T,ZOWMK,Female,Qualifies for reduced/free lunch,38.0,50.0
+JM8WM,ZOWMK,Female,Qualifies for reduced/free lunch,36.0,55.0
+K6FWQ,ZOWMK,Female,Qualifies for reduced/free lunch,37.0,57.0
+N3CCG,ZOWMK,Female,Qualifies for reduced/free lunch,35.0,59.0
+O0K98,ZOWMK,Male,Qualifies for reduced/free lunch,41.0,54.0
+S6982,ZOWMK,Male,Qualifies for reduced/free lunch,37.0,53.0
+SED9R,ZOWMK,Female,Qualifies for reduced/free lunch,37.0,54.0
+STM05,ZOWMK,Female,Qualifies for reduced/free lunch,39.0,49.0
+TAFUM,ZOWMK,Male,Qualifies for reduced/free lunch,37.0,53.0
+TXOOF,ZOWMK,Female,Does not qualify,40.0,55.0
+UKCBM,ZOWMK,Female,Qualifies for reduced/free lunch,34.0,50.0
+VCHRB,ZOWMK,Female,Qualifies for reduced/free lunch,38.0,53.0
+WX1CZ,ZOWMK,Male,Qualifies for reduced/free lunch,39.0,56.0
+X42WM,ZOWMK,Female,Qualifies for reduced/free lunch,36.0,49.0
+03TIL,ZOWMK,Female,Qualifies for reduced/free lunch,46.0,49.0
+0FC2B,ZOWMK,Female,Does not qualify,43.0,52.0
+1OKDF,ZOWMK,Female,Qualifies for reduced/free lunch,40.0,49.0
+1PZC1,ZOWMK,Female,Qualifies for reduced/free lunch,45.0,51.0
+286RT,ZOWMK,Female,Qualifies for reduced/free lunch,39.0,50.0
+2IJFL,ZOWMK,Male,Qualifies for reduced/free lunch,39.0,51.0
+3IBYC,ZOWMK,Male,Does not qualify,43.0,53.0
+4FOEZ,ZOWMK,Female,Qualifies for reduced/free lunch,45.0,51.0
+6W3J2,ZOWMK,Female,Qualifies for reduced/free lunch,44.0,53.0
+7ZH49,ZOWMK,Female,Qualifies for reduced/free lunch,46.0,50.0
+8TZ7Z,ZOWMK,Male,Qualifies for reduced/free lunch,44.0,54.0
+9GPZN,ZOWMK,Male,Qualifies for reduced/free lunch,37.0,50.0
+A0OEB,ZOWMK,Female,Qualifies for reduced/free lunch,41.0,52.0
+B7AE1,ZOWMK,Male,Qualifies for reduced/free lunch,38.0,48.0
+C8BRE,ZOWMK,Male,Qualifies for reduced/free lunch,40.0,53.0
+D7CTP,ZOWMK,Female,Qualifies for reduced/free lunch,37.0,47.0
+FPUKO,ZOWMK,Female,Qualifies for reduced/free lunch,38.0,52.0
+HHNNN,ZOWMK,Female,Does not qualify,45.0,57.0
+KLN48,ZOWMK,Female,Qualifies for reduced/free lunch,47.0,55.0
+MKTFW,ZOWMK,Female,Qualifies for reduced/free lunch,44.0,52.0
+O5RMI,ZOWMK,Female,Qualifies for reduced/free lunch,43.0,45.0
+QOOMM,ZOWMK,Male,Qualifies for reduced/free lunch,37.0,46.0
+QVUI0,ZOWMK,Male,Qualifies for reduced/free lunch,38.0,50.0
+S81CK,ZOWMK,Male,Qualifies for reduced/free lunch,41.0,51.0
+SNGT7,ZOWMK,Female,Qualifies for reduced/free lunch,41.0,55.0
+VE9M5,ZOWMK,Female,Qualifies for reduced/free lunch,45.0,53.0
+VLT9X,ZOWMK,Male,Qualifies for reduced/free lunch,36.0,47.0
+WCK50,ZOWMK,Female,Qualifies for reduced/free lunch,42.0,50.0
+WTGZ3,ZOWMK,Male,Qualifies for reduced/free lunch,41.0,48.0
+XTDGC,ZOWMK,Female,Qualifies for reduced/free lunch,36.0,48.0
+14KA2,ZOWMK,Male,Qualifies for reduced/free lunch,41.0,46.0
+1RM48,ZOWMK,Female,Qualifies for reduced/free lunch,43.0,52.0
+1ZXE0,ZOWMK,Female,Qualifies for reduced/free lunch,39.0,54.0
+30ZL7,ZOWMK,Female,Qualifies for reduced/free lunch,38.0,49.0
+3GOXL,ZOWMK,Female,Qualifies for reduced/free lunch,42.0,51.0
+3ZC0F,ZOWMK,Female,Qualifies for reduced/free lunch,36.0,43.0
+58VZ8,ZOWMK,Male,Qualifies for reduced/free lunch,36.0,53.0
+87CSN,ZOWMK,Male,Qualifies for reduced/free lunch,40.0,48.0
+8VV7M,ZOWMK,Female,Qualifies for reduced/free lunch,42.0,48.0
+B6OD9,ZOWMK,Female,Qualifies for reduced/free lunch,39.0,49.0
+B7EZ3,ZOWMK,Female,Qualifies for reduced/free lunch,40.0,47.0
+C7MHP,ZOWMK,Female,Does not qualify,39.0,55.0
+E7D9H,ZOWMK,Female,Qualifies for reduced/free lunch,41.0,48.0
+ECH9Z,ZOWMK,Male,Qualifies for reduced/free lunch,38.0,48.0
+F4XMK,ZOWMK,Male,Qualifies for reduced/free lunch,42.0,55.0
+FF3C5,ZOWMK,Male,Does not qualify,46.0,53.0
+FX3Q4,ZOWMK,Male,Qualifies for reduced/free lunch,41.0,49.0
+GKK5I,ZOWMK,Female,Qualifies for reduced/free lunch,42.0,50.0
+J4IDO,ZOWMK,Male,Does not qualify,39.0,52.0
+JU0SW,ZOWMK,Male,Qualifies for reduced/free lunch,38.0,46.0
+KPR1P,ZOWMK,Male,Qualifies for reduced/free lunch,40.0,46.0
+Q6QZP,ZOWMK,Male,Qualifies for reduced/free lunch,41.0,50.0
+Q8JXJ,ZOWMK,Female,Qualifies for reduced/free lunch,45.0,47.0
+R805N,ZOWMK,Male,Qualifies for reduced/free lunch,38.0,51.0
+S4I5S,ZOWMK,Male,Qualifies for reduced/free lunch,39.0,50.0
+T8LSK,ZOWMK,Female,Does not qualify,39.0,55.0
+VNP26,ZOWMK,Female,Qualifies for reduced/free lunch,38.0,46.0
+YDR1Z,ZOWMK,Female,Qualifies for reduced/free lunch,45.0,51.0
+YUEIH,ZOWMK,Male,Qualifies for reduced/free lunch,46.0,53.0
+ZVCQ8,ZOWMK,Male,Qualifies for reduced/free lunch,41.0,48.0
