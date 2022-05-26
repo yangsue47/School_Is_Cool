@@ -59,13 +59,13 @@ Balanced split between Low Growth and High Growth groups
 The count balance between Low Growth and High Growth was pretty evenly split (1128 feel into Low Growth category and 1005 fell into High Growth category). 
 <ADD in info on use of Standard scaler?
 
-## Database Integration
+# Database Integration
 We used Postgres SQL as our database and built a connection string to pull our dataset from Postgres. The two tables we created were comprised of student information and school information. Both tables were merged into a combined table.
 
 ![](Segment%202/ERD1.png)
 ![](Segment%202/ERD2.png)
 
-## Dashboard
+# Dashboard
 Dashboard will be developed on Tableau and displayed as a webframe on a Heroku app.
 The innteractive elements of our dashboard will include user selections for toggling on or off the different features of interest in our dataset:
 * School setting
