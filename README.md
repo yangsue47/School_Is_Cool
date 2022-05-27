@@ -1,5 +1,5 @@
 # Final Project: Predicting Growth in Test Scores - Segment Two
-
+![](Segment%202/Segment2.gif)
 # Communication Protocols
 The project team consisted of Pa Lor, Eric Sanders and Sue Yang. The team's primary communication method was through a private Slack message. After each group meeting, notes were shared with project assignments and responsibilities to make sure everyone left the meeting with a clear understanding of their action items and tasks to complete before the next meeting. The team established a desire to use office hours before class to discuss any questions and items that needed cross consultation and discussion among team members. A standing Saturday meeting time was also established for the team to utilize as needed to finish tasks for submission.
 
