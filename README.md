@@ -69,3 +69,19 @@ This bar graph brings together what appear to be the main influencing features f
 
 ![](Segment%202/Initial_Dashboard_Segment2.png)
 Our initial dashboard view attempts to call out the main features that would first be considered including the number of students in the dataset and the split between public and non-public schools.  Other relevant features consistent with our machine learning model include teaching method and free or reduced lunch qualification status.
+
+# Results
+From our machine learning model, the accuracy score was determined to be 73.8%. Our team determined this to be good enough for this model. We tried other various iteration but did not get a higher score than this. 
+
+<img src = "Sandbox/Sue/Resources/balance_accuracy_score.png">
+
+Here's a snapshot of our confusion matrix:
+<img src = "Sandbox/Sue/Resources/growth_matrix.png">
+
+Based on our classification report, our precision score for high growth stated that of all the predicted high growth, we were able to correctly identify 76% of them. 
+
+<img src = "Sandbox/Sue/Resources/classification_report.png">
+
+Base on the feature importance, it was determined that the number of students within the classroom was the biggest indicator of whether or not a student will show high growth. This feature impact was over 30% and well above all the other features.
+
+<img src = "Sandbox/Sue/Resources/feature_importances.png">
