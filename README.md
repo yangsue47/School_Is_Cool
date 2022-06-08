@@ -85,3 +85,15 @@ Based on our classification report, our precision score for high growth stated t
 Base on the feature importance, it was determined that the number of students within the classroom was the biggest indicator of whether or not a student will show high growth. This feature impact was over 30% and well above all the other features.
 
 <img src = "Sandbox/Sue/Resources/feature_importances.png">
+
+# Recommendations for future analysis
+Upon completion of our analysis with the data, here are some recommendations on future investigations with the dataset:
+- Explore other similar and more robust dataset that have higher row values and wider feature inputs
+- Do a correlation predcition using linear regression on pre and post test
+- Explore feature components to see why they may/may not be important in the score growth
+- Explore feature importance based on specific populations
+
+## What we would do differently based on our experience
+- Establish a better framework to guide our selection of a dataset
+- Explore additional machine learning models during the initial phase of the project
+- Create multiple branches and learn how to merge changes onto the main branch
