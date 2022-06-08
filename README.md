@@ -25,7 +25,7 @@ The questions we hope to answer are:
 The dataset used for this project was pulled from Kaggle and linked [here](https://www.kaggle.com/datasets/kwadwoofosu/predict-test-scores-of-students).
 
 #### Initial Data Exploration & Analysis
-Very little cleaning was needed for our dataset. Descriptive statistics were generated to understand makeup of dataset. This was completed for the whole dataset and for each school setting (urban, suburban, and rural).To measure growth in test scores, we calculated % change in score from pre- to post-test. Then used that data to determine if a student experienced high or low growth. Based on the mean for % change in test scores (about 18.5), we decided to go with 18.5 points as our cut-off score for determining our high and low growth categories.
+Very little cleaning was needed for our dataset. There were 3 students who experienced little growth from their pre-test score to post-test score and 1 student who experienced a drop in their scores from pre- to post-test. We decided to remove the scores of these 4 students for our project analysis. Descriptive statistics were generated to understand makeup of dataset. This was completed for the whole dataset and for each school setting (urban, suburban, and rural).To measure growth in test scores, we calculated % change in score from pre- to post-test. Then used that data to determine if a student experienced high or low growth. Based on the mean for % change in test scores (about 18.63), we decided to go with 18.63 points as our cut-off score for determining our high and low growth categories.
 
 ## Machine Learning Model
 The model we decided to use for our machine learning was a random forest classifier. We chose this model because the ensemble features of this model allowed us to find the importance of each feature in our model. This was important since we wanted to know the ranking and importance of each feature on predicting a student’s growth in their test scores.
@@ -57,13 +57,14 @@ We used Postgres SQL as our database and built a connection string to pull our d
 ![](Segment%202/ERD2.png)
 
 ## Dashboard
-Dashboard will be developed on Tableau and displayed as a webframe on a Heroku app. The innteractive elements of our dashboard will include user selections for toggling on or off the different features of interest in our dataset:
+Dashboard was developed using Tableau Public and displays the main influencing features form our dataset. There is user interactivity with filtrs that allow the user to single out different sets of information and filter based on the following:
 * School setting
 * Lunch status
 * School type
 * Teaching method
 
-Click [here](https://public.tableau.com/app/profile/eric.v.sanders/viz/SchoolisCool_06032022DB/Dashboard1) for a link to our dashboard.
+Click [here](https://public.tableau.com/app/profile/eric.v.sanders/viz/SchoolisCool_06032022DB/Dashboard1) to view our final dashboard.
+![](Segment%203%2B4/FINAL%20DASHBOARD.png)
 
 #### Screenshots from initial visualizations
 ![](Segment%202/Variance_Lunch_Schooltype.png)
@@ -71,9 +72,6 @@ This view shows school setting (urban, suburban, and rural) plus school setting 
 
 ![](Segment%202/Major_Features.png)
 This bar graph brings together what appear to be the main influencing features from our dataset along with filters to allow the user to single out different sets of information.
-
-![](Segment%202/Initial_Dashboard_Segment2.png)
-Our initial dashboard view attempts to call out the main features that would first be considered including the number of students in the dataset and the split between public and non-public schools.  Other relevant features consistent with our machine learning model include teaching method and free or reduced lunch qualification status.
 
 ## Results
 From our machine learning model, the accuracy score was determined to be 73.8%. Our team determined this to be good enough for this model. We tried other various iteration but did not get a higher score than this. 
