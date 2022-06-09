@@ -83,7 +83,7 @@ Here's a snapshot of our confusion matrix:
 
 Based on our classification report, our precision score for high growth stated that of all the predicted high growth, we were able to correctly identify 76% of them.
 
-<img src = "Sandbox/Sue/Resources/classification_report.png">
+ <img src = "Sandbox/Sue/Resources/classification_report.png">
 
 Base on the feature importance, it was determined that the number of students within the classroom was the biggest indicator of whether or not a student will show high growth. This feature impact was over 30% and well above all the other features.
 
