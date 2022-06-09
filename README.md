@@ -81,7 +81,7 @@ From our machine learning model, the accuracy score was determined to be 73.8%. 
 Here's a snapshot of our confusion matrix:
 <img src = "Sandbox/Sue/Resources/growth_matrix.png">
 
-Based on our classification report, our precision score for high growth stated that of all the predicted high growth, we were able to correctly identify 76% of them. 
+Based on our classification report, our precision score for high growth stated that of all the predicted high growth, we were able to correctly identify 76% of them.
 
 <img src = "Sandbox/Sue/Resources/classification_report.png">
 
