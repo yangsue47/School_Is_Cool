@@ -57,7 +57,7 @@ We used Postgres SQL as our database and built a connection string to pull our d
 ![](Segment%202/ERD2.png)
 
 ## Dashboard
-Dashboard was developed using Tableau Public and displays the main influencing features form our dataset. There is user interactivity with filtrs that allow the user to single out different sets of information and filter based on the following:
+Dashboard was developed using Tableau Public and displays the main influencing features form our dataset. There is user interactivity with filters that allow the user to single out different sets of information and filter based on the following:
 * School setting
 * Lunch status
 * School type
